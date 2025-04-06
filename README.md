@@ -15,11 +15,13 @@ Je suis **Développeuse Web & Mobile Full Stack**, passionnée par le **design**
 
 ### 🚀 Projets & Réalisations
 
-| Projet                                                              | Description                                         | Technologies         |
-| ------------------------------------------------------------------- | --------------------------------------------------- | -------------------- |
-| **[App-MeteoZen](https://github.com/fannysaez/App-MeteoZen)**       | Application météo collaborative responsive          | HTML, CSS, JS        |
-| **[CV en ligne](https://fannysaez.github.io/cv-en-ligne/)**         | Curriculum Vitae interactif en ligne                | HTML, CSS, GitHub    |
-| **[Portfolio](https://fannysaez.github.io/my_portfolio/)**          | Site personnel de présentation de mes projets       | HTML, CSS, JS        |
+| Projet                                                                 | Description                                                    | Technologies         |
+| ---------------------------------------------------------------------- | -------------------------------------------------------------- | -------------------- |
+| **[App-MeteoZen](https://github.com/fannysaez/App-MeteoZen)**          | Application météo collaborative responsive                     | HTML, CSS, JS        |
+| **[CV en ligne](https://fannysaez.github.io/cv-en-ligne/)**            | Curriculum Vitae interactif en ligne                           | HTML, CSS, GitHub    |
+| **[Portfolio](https://fannysaez.github.io/my_portfolio/)**             | Site personnel de présentation de mes projets                  | HTML, CSS, JS        |
+| **[Flanano Symfony](https://github.com/HeyAnto/flanano-symfony)**      | Catalogue de produits avec interface admin *(collab. binôme)*  | Symfony, PHP, SQL    |
+
 
 #
 
