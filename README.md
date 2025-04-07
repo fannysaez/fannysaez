@@ -44,7 +44,7 @@ Je suis **Développeuse Web & Mobile Full Stack**, passionnée par le **design**
 #
 #### Outils 
 
-![Graphique](https://go-skill-icons.vercel.app/api/icons?i=composer,npm,git,github,discord)
+![Graphique](https://go-skill-icons.vercel.app/api/icons?i=composer,npm,git,github,discord,codepen)
 
 
 
