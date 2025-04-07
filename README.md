@@ -22,7 +22,6 @@ Je suis **Développeuse Web & Mobile Full Stack**, passionnée par le **design**
 | **[Portfolio](https://fannysaez.github.io/my_portfolio/)**             | Site personnel de présentation de mes projets                  | HTML, CSS, JS        |
 | **[Flanano Symfony](https://github.com/HeyAnto/flanano-symfony)**      | Catalogue de produits avec interface admin *(collab. binôme)*  | Symfony, PHP, SQL    |
 
-
 #
 
 ### 💡 Mes compétences
@@ -30,20 +29,19 @@ Je suis **Développeuse Web & Mobile Full Stack**, passionnée par le **design**
 #### Environnement
 
 ![Tools](https://go-skill-icons.vercel.app/api/icons?i=vscode,windows,zen,)
+#
+#### 💻 ☆ Langages & Technologies :
 
-#### Langages
-
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,php,mysql&perline=5)
-
-#### Technologies
-
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,nodejs,php,mysql&perline=5)
+#
 ![Technos](https://go-skill-icons.vercel.app/api/icons?i=bootstrap,twig,symfony,wordpress)
 
-
+#
 #### Outils Graphiques
 
 ![Graphique](https://go-skill-icons.vercel.app/api/icons?i=ps,ai,id)
 
+#
 #### Outils 
 
 ![Graphique](https://go-skill-icons.vercel.app/api/icons?i=composer,npm,git,github,discord)
