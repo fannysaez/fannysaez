@@ -1,6 +1,8 @@
 ### 👋 Hello, moi c’est Fanny !
 
-Je suis **Développeuse Web & Mobile Full Stack**, passionnée par le **design**, le **code** et l’**expérience utilisateur**. Curieuse, créative, organisée et toujours prête à apprendre, je me forme actuellement chez Simplon à Clermont-Ferrand.
+Je suis **Développeuse Web & Mobile Full Stack**, passionnée par le **design**, le **code** et le **diy**. Curieuse, créative, organisée et toujours prête à apprendre, je me forme actuellement chez Simplon à Clermont-Ferrand.
+
+Mon **ambition** sur des projets professionnelles à venir sont pour ma part, une opportunité à saisir et une suite bien entendu, la **CDA** (Concepteur d'Application) & la **Cybersécurité**.
 
 
 #
@@ -26,23 +28,23 @@ Je suis **Développeuse Web & Mobile Full Stack**, passionnée par le **design**
 
 ### 💡 Mes compétences
 
-#### Environnement
+#### ☆ Environnement
 
 ![Tools](https://go-skill-icons.vercel.app/api/icons?i=vscode,windows,zen,)
 #
-#### 💻 ☆ Langages & Technologies :
+#### ☆ Langages & Technologies :
 
 ![Languages](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,nodejs,php,mysql&perline=5)
 #
 ![Technos](https://go-skill-icons.vercel.app/api/icons?i=bootstrap,twig,symfony,wordpress)
 
 #
-#### Outils Graphiques
+#### ☆ Outils Graphiques
 
 ![Graphique](https://go-skill-icons.vercel.app/api/icons?i=ps,ai,id)
 
 #
-#### Outils 
+#### ☆ Outils 
 
 ![Graphique](https://go-skill-icons.vercel.app/api/icons?i=composer,npm,git,github,discord,codepen)
 
