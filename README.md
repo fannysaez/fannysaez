@@ -10,7 +10,7 @@ Mon **ambition** sur des projets professionnelles à venir sont pour ma part, un
 ### 🔥 Ce que je fais
 
 - 🎨 **Design graphique** – Création d’identités visuelles, brochures, papeterie personnalisée
-- 💻 **Développement Web** – HTML, CSS, JavaScript, PHP, MySQL, Bootstrap
+- 💻 **Développement Web** – HTML, CSS, JavaScript, PHP, MySQL, Symfony 7, Bootstrap
 - 🛠️ **Intégration & maintenance** – GitHub, Git, automatisation de tâches simples
 
 #
