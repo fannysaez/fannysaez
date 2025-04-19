@@ -41,12 +41,12 @@ Mon **ambition** sur des projets professionnelles à venir sont pour ma part, un
 #
 #### ☆ Outils Graphiques
 
-![Graphique](https://go-skill-icons.vercel.app/api/icons?i=ps,ai,id)
+![Graphique](https://go-skill-icons.vercel.app/api/icons?i=ps,ai,id,xd)
 
 #
 #### ☆ Outils 
 
-![Graphique](https://go-skill-icons.vercel.app/api/icons?i=composer,npm,git,github,discord,codepen)
+![Graphique](https://go-skill-icons.vercel.app/api/icons?i=composer,npm,git,github,discord,codepen,powershell,stackoverflow)
 
 
 
