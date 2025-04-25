@@ -54,6 +54,7 @@ Mon **ambition** sur des projets professionnelles à venir sont pour ma part, un
 ## 🧩 Expériences
 
 ### 🏁 Hackathon – Porteur de projet : AirNAM (2 jours)
+
 ### Équipe Rouge · Thématique : Éco-conception & Accessibilité
 En tant que porteuse de projet, j’ai dirigé la création d’un site WordPress écoresponsable autour de la qualité de l’air dans les transports.
 
