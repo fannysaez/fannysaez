@@ -17,12 +17,13 @@ Mon **ambition** sur des projets professionnelles à venir sont pour ma part, un
 
 ### 🚀 Projets & Réalisations
 
-| Projet                                                                 | Description                                                    | Technologies         |
-| ---------------------------------------------------------------------- | -------------------------------------------------------------- | -------------------- |
-| **[App-MeteoZen](https://github.com/fannysaez/App-MeteoZen)**          | Application météo collaborative responsive                     | HTML, CSS, JS        |
-| **[CV en ligne](https://fannysaez.github.io/cv-en-ligne/)**            | Curriculum Vitae interactif en ligne                           | HTML, CSS, GitHub    |
-| **[Portfolio](https://fannysaez.github.io/my_portfolio/)**             | Site personnel de présentation de mes projets                  | HTML, CSS, JS        |
-| **[Flanano Symfony](https://github.com/HeyAnto/flanano-symfony)**      | Catalogue de produits avec interface admin *(collab. binôme)*  | Symfony, PHP, SQL    |
+| Projet                                                                 | Description                                                    | Technologies              |
+| ---------------------------------------------------------------------- | -------------------------------------------------------------- | ------------------------- |
+| **[App-MeteoZen](https://github.com/fannysaez/App-MeteoZen)**          | Application météo collaborative responsive                     | HTML, CSS, JS             |
+| **[CV en ligne](https://fannysaez.github.io/cv-en-ligne/)**            | Curriculum Vitae interactif en ligne                           | HTML, CSS, GitHub         |
+| **[Portfolio](https://fannysaez.github.io/my_portfolio/)**             | Site personnel de présentation de mes projets                  | HTML, CSS, JS             |
+| **[Flanano Symfony](https://github.com/HeyAnto/flanano-symfony)**      | Catalogue de produits avec interface admin *(collab. binôme)*  | Symfony, PHP, SQL         |
+| **Hackathon – Équipe Rouge**                                           | 2 jours de collaboration intense avec une équipe extra ! 💪     | WordPress, SEO, Green UX/UI |
 
 #
 
@@ -48,7 +49,32 @@ Mon **ambition** sur des projets professionnelles à venir sont pour ma part, un
 
 ![Graphique](https://go-skill-icons.vercel.app/api/icons?i=composer,npm,git,github,discord,codepen,powershell,stackoverflow)
 
+---
 
+## 🧩 Expériences
+
+### 🏁 Hackathon – Porteur de projet : AirNAM (2 jours)
+### Équipe Rouge · Thématique : Éco-conception & Accessibilité
+En tant que porteuse de projet, j’ai dirigé la création d’un site WordPress écoresponsable autour de la qualité de l’air dans les transports.
+
+👉 En collaboration avec une équipe extra 🌟, nous avons conçu un prototype fonctionnel, au design réfléchi et optimisé pour le SEO et la performance.
+
+Compétences mobilisées : leadership, travail d’équipe, coordination, organisation, créativité, gestion du temps.
+
+
+## 🌱 Soft Skills
+
+* 🤝 Esprit d’équipe
+ 
+* ⏱️ Gestion du temps
+
+* 💡 Créativité & curiosité
+
+* 🧘‍♀️ Calme sous pression
+
+* 🎯 Sens du détail et de l’objectif
+
+* 🚀 Motivation & adaptabilité
 
 ---
 
