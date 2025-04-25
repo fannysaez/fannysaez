@@ -56,7 +56,7 @@ Mon **ambition** sur des projets professionnelles à venir sont pour ma part, un
 ### 🏁 Hackathon – Porteur de projet : AirNAM (2 jours)
 
 ### Équipe Rouge · Thématique : Éco-conception & Accessibilité
-En tant développeuse web et mobile en formation, j’ai participé à la création d’un site WordPress écoresponsable autour de la qualité de l’air dans les transports.
+En tant que développeuse web et mobile en formation, j’ai participé à la création d’un site WordPress écoresponsable autour de la qualité de l’air dans les transports.
 
 👉 En collaboration avec une équipe extra 🌟, nous avons conçu un prototype fonctionnel, au design réfléchi et optimisé pour le SEO et la performance.
 
