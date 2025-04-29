@@ -84,7 +84,7 @@ Compétences mobilisées : leadership, travail d’équipe, coordination, organi
 - 🌍 [Portfolio](https://fannysaez.github.io/my_portfolio/)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/fannysaez/)
 - 📸 [Instagram](https://www.instagram.com/craft_my_design/)
-- ✉️ [fanny.saez.0486@gmail.com](mailto:fanny.saez.0486@gmail.com)
+- ✉️ [Contactez-moi](mailto:fanny.saez.0486@gmail.com)
 
 #
 
