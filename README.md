@@ -94,7 +94,7 @@ Compétences mobilisées : leadership, travail d’équipe, coordination, organi
 #
 
 ### 💡 Mes Compétences Actuelles durant le stage
-### 🧱 Stack Technique en Formation
+### 🧱 Stack Technique en Stage Freelance - 2,5 mois
 
 | **Élément** | **Technologie** | **Icône** |
 | --- | --- | --- |
