@@ -51,7 +51,7 @@ Mon **ambition** sur des projets professionnelles à venir sont pour ma part, un
 #
 #### ☆ Outils Graphiques
 
-![Graphique](https://go-skill-icons.vercel.app/api/icons?i=ps,ai,id,xd)
+![Graphique](https://go-skill-icons.vercel.app/api/icons?i=ps,ai,id,xd,figma,)
 
 #
 #### ☆ Outils 
