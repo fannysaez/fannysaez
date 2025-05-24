@@ -101,10 +101,10 @@ Compétences mobilisées : leadership, travail d’équipe, coordination, organi
 | Framework | **Next.js** | ![Next.js](https://go-skill-icons.vercel.app/api/icons?i=nextjs) |
 | Base de données | **Neon (PostgreSQL)** | ![PostgreSQL](https://go-skill-icons.vercel.app/api/icons?i=postgresql) |
 | ORM | **Prisma** | ![Prisma](https://go-skill-icons.vercel.app/api/icons?i=prisma) |
-| Authentification | **Better-Auth** | 🔐 |
-| Paiement | **Stripe** | 💳 |
-| Emails | **Resend** | ✉️ |
-| Icons | React Icons | 🎨 |
+| Authentification | **Better-Auth** |**Better-Auth** |
+| Paiement | **Stripe** | <img src="https://upload.wikimedia.org/wikipedia/commons/b/ba/Stripe_Logo%2C_revised_2016.svg" width="120" alt="Stripe"> |
+| Emails | **Resend** | **Resend** |
+| Icons | **React Icons** | <img src="https://raw.githubusercontent.com/react-icons/react-icons/master/react-icons.svg" width="120" alt="React Icons"> |
 | Formulaires | **React Hook Form + Zod** | ![React](https://go-skill-icons.vercel.app/api/icons?i=react) |
 | Déploiement | **Vercel** | ![Vercel](https://go-skill-icons.vercel.app/api/icons?i=vercel) |
 
