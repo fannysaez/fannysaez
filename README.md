@@ -58,6 +58,7 @@ Mon **ambition** sur des projets professionnelles à venir sont pour ma part, un
 
 ![Graphique](https://go-skill-icons.vercel.app/api/icons?i=composer,npm,git,github,discord,codepen,powershell,stackoverflow)
 
+
 ---
 
 ## 🧩 Expériences
@@ -88,6 +89,36 @@ Compétences mobilisées : leadership, travail d’équipe, coordination, organi
 
 ---
 
+###  🔄 Stage en Freelance
+### **Période :** Du 19 mai jusqu'au 30 juillet 2025
+#
+
+### 💡 Mes Compétences Actuelles durant le stage
+### 🧱 Stack Technique en Formation
+
+| **Élément** | **Technologie** | **Icône** |
+| --- | --- | --- |
+| Framework | **Next.js** | ![Next.js](https://go-skill-icons.vercel.app/api/icons?i=nextjs) |
+| Base de données | **Neon (PostgreSQL)** | ![PostgreSQL](https://go-skill-icons.vercel.app/api/icons?i=postgresql) |
+| ORM | **Prisma** | ![Prisma](https://go-skill-icons.vercel.app/api/icons?i=prisma) |
+| Authentification | **Better-Auth** | 🔐 |
+| Paiement | **Stripe** | 💳 |
+| Emails | **Resend** | ✉️ |
+| Icons | React Icons | 🎨 |
+| Formulaires | **React Hook Form + Zod** | ![React](https://go-skill-icons.vercel.app/api/icons?i=react) |
+| Déploiement | **Vercel** | ![Vercel](https://go-skill-icons.vercel.app/api/icons?i=vercel) |
+
+### 📌 Contraintes & Exigences Techniques
+
+- **Site responsive** (desktop / mobile)
+- **SEO friendly** (balises meta, titres, performances)
+- Sécurisation des pages privées
+- Utilisation de **Stripe Webhooks** pour débloquer l'accès formation
+- Expérience utilisateur fluide, interface apaisante, moderne et lisible
+
+
+---
+
 ### 📫 Me contacter
 
 - [Portfolio](https://fannysaez.github.io/my_portfolio/)
@@ -98,6 +129,6 @@ Compétences mobilisées : leadership, travail d’équipe, coordination, organi
 - 📸 [Instagram](https://www.instagram.com/designdevwebdiy/)
 - ✉️ [Contactez-moi](mailto:fanny.saez.0486@gmail.com)
 
-#
+---
 
 **Merci pour votre visite !** 🌟
