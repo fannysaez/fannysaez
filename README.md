@@ -108,6 +108,7 @@ Compétences mobilisées : leadership, travail d’équipe, coordination, organi
 | Formulaires | **React Hook Form + Zod** | ![React](https://go-skill-icons.vercel.app/api/icons?i=react) |
 | Déploiement | **Vercel** | ![Vercel](https://go-skill-icons.vercel.app/api/icons?i=vercel) |
 
+#
 ### 📌 Contraintes & Exigences Techniques
 
 - **Site responsive** (desktop / mobile)
@@ -117,14 +118,14 @@ Compétences mobilisées : leadership, travail d’équipe, coordination, organi
 - Expérience utilisateur fluide, interface apaisante, moderne et lisible
 
 
----
+#
 
 ### 📫 Me contacter
 
 - [Portfolio](https://fannysaez.github.io/my_portfolio/)
 - [CV en ligne](https://fannysaez.github.io/cv-en-ligne/)
 
----
+#
 - 🔗 [LinkedIn](https://www.linkedin.com/in/fannysaez/)
 - 📸 [Instagram](https://www.instagram.com/designdevwebdiy/)
 - ✉️ [Contactez-moi](mailto:fanny.saez.0486@gmail.com)
