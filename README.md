@@ -89,9 +89,9 @@ Compétences mobilisées : leadership, travail d’équipe, coordination, organi
 
 ---
 
-####  🔄 Stage en Freelance avec [**@Alexis**](https://github.com/Alexisdelecroix) |  **Période :** Du 19 mai jusqu'au 30 juillet 2025
+####  🔄 Stage en Freelance avec [**@Alexis**](https://github.com/Alexisdelecroix) |  **Période :** Du 19 mai jusqu'au 30 juillet 2025  - 2,5 mois
 
-#### 🧱 Stack Technique en Stage Freelance - 2,5 mois
+#### 🧱 Stack Technique
 
 | **Élément** | **Technologie** | **Icône** |
 | --- | --- | --- |
