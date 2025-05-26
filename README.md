@@ -4,14 +4,7 @@ Je suis **Développeuse Web & Mobile Full Stack**, passionnée par le **design**
 
 Mon **ambition** sur des projets professionnelles à venir sont pour ma part, une opportunité à saisir et une suite bien entendu, la **CDA** (Concepteur Développement d'Application) & la **Cybersécurité**.
 
-<br>
 
- ![Développeuse Web & Mobile Full Stack](https://img.shields.io/badge/Développeuse%20Web%20%26%20Mobile%20Full%20Stack-Dev%20Full%20Stack-blueviolet)  ![design](https://img.shields.io/badge/Design-Créativité-ff69b4)  ![code](https://img.shields.io/badge/Code-Programmation-lightgreen) 
- ![diy](https://img.shields.io/badge/DIY-Création-orange)  ![ambition](https://img.shields.io/badge/Ambition-Croissance-yellowgreen)  ![CDA](https://img.shields.io/badge/CDA-Concepteur%20Développeur%20d'%20Applications-red) 
- ![Cybersécurité](https://img.shields.io/badge/Cybersécurité-Sécurisation-darkblue) 
-
-<!-- Ligne vide sous le tableau -->
-<br>
 
 ### 🔥 Ce que je fais
 
