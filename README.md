@@ -19,5 +19,5 @@ Mon **ambition** sur des projets professionnelles à venir sont pour ma part, un
 ---
 
 <p align="center">
-  <a href="./profile/projets-et-realisations.md">Suivant</a>
+  <a href="profile/projets-et-realisations.md">Suivant</a>
 </p>
