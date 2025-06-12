@@ -4,7 +4,11 @@ Je suis **Développeuse Web & Mobile Full Stack**, passionnée par le **design**
 
 Mon **ambition** sur des projets professionnelles à venir sont pour ma part, une opportunité à saisir et une suite bien entendu, la **CDA** (Concepteur Développement d'Application) & la **Cybersécurité**.
 
-
+<p align="center">
+  <a href="https://www.linkedin.com/in/fannysaez">
+    <img src="https://readme-components.vercel.app/api?component=button&text=LinkedIn" alt="LinkedIn" />
+  </a>
+</p>
 
 ### 🔥 Ce que je fais
 
