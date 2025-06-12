@@ -15,33 +15,13 @@ Mon **ambition** sur des projets professionnelles à venir sont pour ma part, un
 | 🛠️    | **Intégration & maintenance** | ![Git](https://img.shields.io/badge/Git-Version%20control-orange) ![GitHub](https://img.shields.io/badge/GitHub-Repo-black) ![Automatisation](https://img.shields.io/badge/Tâches-Automatisation-success) ![VS Code](https://img.shields.io/badge/VS%20Code-Editor-007ACC) ![Bash](https://img.shields.io/badge/Bash-Terminal-4EAA25) ![PowerShell](https://img.shields.io/badge/PowerShell-Terminal-012456) |
 | 📋    | **Outils de gestion & modélisation** | ![Notion](https://img.shields.io/badge/Notion-Docs-black) ![Trello](https://img.shields.io/badge/Trello-Board-0079BF) ![Kanban](https://img.shields.io/badge/Kanban-Workflow-yellowgreen) ![StarUML](https://img.shields.io/badge/StarUML-Modélisation-blue) |
 
-<!-- ## 📊 Mes statistiques GitHub
+---
+### My stats ⭐
 
-<p align="center">
-  <a href="https://github.com/fannysaez">
-    <img src="https://github-readme-stats.vercel.app/api?username=fannysaez&show_icons=true&theme=github_dark&hide_border=true" alt="Statistiques GitHub de Fanny" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/fannysaez">
-    <img src="https://streak-stats.demolab.com?user=fannysaez&theme=github-dark&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak de Fanny" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/fannysaez">
-    <img src="https://github-readme-activity-graph.vercel.app/graph?username=fannysaez&theme=github-compact" alt="Graphique d'activité GitHub de Fanny" />
-  </a>
-</p>
-
-<p align="center">
-  <a href="https://github.com/fannysaez?tab=repositories">
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=fannysaez&theme=github_dark" alt="Langages utilisés" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=fannysaez&theme=github_dark" alt="Langage le plus utilisé" />
-    <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=fannysaez&theme=github_dark&utcOffset=2" alt="Heures de productivité" />
-  </a>
-</p> -->
+<div align="center">
+  <img alt="Fanny's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=fannysaez&show_icons=true&theme=transparent"/>
+  <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fannysaez&layout=compact&langs_count=8"/>
+</div>
 
 ---
 
