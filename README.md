@@ -31,5 +31,7 @@ Mon **ambition** sur des projets professionnelles à venir sont pour ma part, un
 ---
 
 <p align="center">
-  <a href="profile/projets-et-realisations.md">Suivant</a>
+  <a href="profile/projets-et-realisations.md">
+    <img src="https://readme-components.vercel.app/api?component=button&text=Suivant&color=71d464" alt="Suivant" />
+  </a>
 </p>
