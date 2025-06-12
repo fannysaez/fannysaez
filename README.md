@@ -15,6 +15,13 @@ Mon **ambition** sur des projets professionnelles à venir sont pour ma part, un
 | 🛠️    | **Intégration & maintenance** | ![Git](https://img.shields.io/badge/Git-Version%20control-orange) ![GitHub](https://img.shields.io/badge/GitHub-Repo-black) ![Automatisation](https://img.shields.io/badge/Tâches-Automatisation-success) ![VS Code](https://img.shields.io/badge/VS%20Code-Editor-007ACC) ![Bash](https://img.shields.io/badge/Bash-Terminal-4EAA25) ![PowerShell](https://img.shields.io/badge/PowerShell-Terminal-012456) |
 | 📋    | **Outils de gestion & modélisation** | ![Notion](https://img.shields.io/badge/Notion-Docs-black) ![Trello](https://img.shields.io/badge/Trello-Board-0079BF) ![Kanban](https://img.shields.io/badge/Kanban-Workflow-yellowgreen) ![StarUML](https://img.shields.io/badge/StarUML-Modélisation-blue) |
 
+---
+## 📊 My Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=fannysaez&show_icons=true&theme=dark" alt="Fanny GitHub stats" height="180"/>
+  <img src="https://streak-stats.demolab.com?user=fannysaez&theme=dark" alt="GitHub Streak" height="180"/>
+</p>
 
 ---
 
