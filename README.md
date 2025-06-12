@@ -19,7 +19,7 @@ Mon **ambition** sur des projets professionnelles à venir sont pour ma part, un
 ## 📊 My Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=fannysaez&show_icons=true&theme=dark" alt="Fanny GitHub stats" height="180"/>
+  <img src="https://github-readme-stats.vercel.app/api?username=fannysaez&show_icons=true&theme=dark" alt="Fanny's GitHub stats" height="180"/>
   <img src="https://streak-stats.demolab.com?user=fannysaez&theme=dark" alt="GitHub Streak" height="180"/>
 </p>
 
