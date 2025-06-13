@@ -23,13 +23,13 @@ Mon **ambition** sur des projets professionnelles à venir sont pour ma part, un
 ---
 ### My stats ⭐
 
-<div align="center">
+<p align="center">
   <img alt="Fanny's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=fannysaez&show_icons=true&theme=transparent"/>
   <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fannysaez&layout=compact&langs_count=8"/>
-</div>
+</p>
 
 ---
-
+<br>
 <p align="center">
   <a href="profile/projets-et-realisations.md">
     <img src="https://img.shields.io/badge/Suivant-4CAF50?style=for-the-badge&logoColor=white" alt="Suivant" />
