@@ -31,7 +31,9 @@ Mon **ambition** sur des projets professionnelles à venir sont pour ma part, un
 ---
 
 <p align="center">
-  <a href="profile/projets-et-realisations.md">
-    <img src="https://img.shields.io/badge/Suivant-%20-71d464?style=for-the-badge&logoColor=white" alt="Suivant" />
+ <a href="profile/projets-et-realisations.md" style="display: inline-block; padding: 8px 16px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 4px; margin: 5px;">Suivant</a>
   </a>
 </p>
+
+<!-- <a href="#" style="display: inline-block; padding: 8px 16px; background-color: #4CAF50; color: white; text-decoration: none; border-radius: 4px; margin: 5px;">Précédent</a>
+<a href="#" style="display: inline-block; padding: 8px 16px; background-color: #f44336; color: white; text-decoration: none; border-radius: 4px; margin: 5px;">Suivant</a> -->
