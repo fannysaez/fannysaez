@@ -21,6 +21,7 @@ Mon **ambition** sur des projets professionnelles à venir sont pour ma part, un
 | 📋    | **Outils de gestion & modélisation** | ![Notion](https://img.shields.io/badge/Notion-Docs-black) ![Trello](https://img.shields.io/badge/Trello-Board-0079BF) ![Kanban](https://img.shields.io/badge/Kanban-Workflow-yellowgreen) ![StarUML](https://img.shields.io/badge/StarUML-Modélisation-blue) |
 
 ---
+
 ### My stats ⭐
 
 <p align="center">
