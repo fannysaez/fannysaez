@@ -6,16 +6,16 @@ Mon **ambition** sur des projets professionnelles à venir sont pour ma part, un
 <br><br>
 
 <p align="center">
-    <a href="https://www.linkedin.com/in/fannysaez" style="margin: 0 15px;">
-      <img src="https://img.shields.io/badge/Profil%20Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-    </a>
-    <a href="https://discord.gg/rBD5jbvx" style="margin: 0 15px;">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-    </a>
-    <a href="mailto:design.dev.diy@gmail.com" style="margin: 0 15px;">
-      <img src="https://img.shields.io/badge/Contactez%20moi%20ici-EA4335?style=for-the-badge&logoColor=white" alt="M'écrire" />
-    </a>
-  </p>
+  <a href="https://www.linkedin.com/in/fannysaez">
+    <img src="https://img.shields.io/badge/Profil%20Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a><br>
+  <a href="https://discord.gg/rBD5jbvx">
+    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
+  </a><br>
+  <a href="mailto:design.dev.diy@gmail.com">
+    <img src="https://img.shields.io/badge/Contactez%20moi%20ici-EA4335?style=for-the-badge&logoColor=white" alt="M'écrire" />
+  </a><br>
+</p>
 
 ---
 
