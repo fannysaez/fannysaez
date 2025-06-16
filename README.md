@@ -5,9 +5,10 @@
   </a>
 </div>
 <br>
-Je suis **Développeuse Web & Mobile Full Stack**, passionnée par le **design**, le **code** et le **diy**. Curieuse, créative, organisée et toujours prête à apprendre, je me forme actuellement chez Simplon à Clermont-Ferrand.
 
-Mon **ambition** sur des projets professionnelles à venir sont pour ma part, une opportunité à saisir et une suite bien entendu, la **CDA** (Concepteur Développement d'Application) & la **Cybersécurité**.
+>Je suis **Développeuse Web & Mobile Full Stack**, passionnée par le **design**, le **code** et le **diy**. Curieuse, créative, organisée et toujours prête à apprendre, je me forme actuellement chez Simplon à Clermont-Ferrand.<br><br>
+>Mon **ambition** sur des projets professionnelles à venir sont pour ma part, une opportunité à saisir et une suite bien entendu, la **CDA** (Concepteur Développement d'Application) & la **Cybersécurité**.
+
 <br><br>
 
 <p align="center">
