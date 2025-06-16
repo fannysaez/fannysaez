@@ -1,10 +1,10 @@
-<div style="display: flex; align-items: center; justify-content: space-between; width: 100%;">
-  <h3 style="margin: 0;">👋 Hello, moi c’est Fanny !</h3>
+<div align="center">
+  <h3>👋 Hello, moi c’est Fanny !</h3>
   <a href="https://www.simplon.co/campus/clermont-ferrand">
     <img src="https://img.shields.io/badge/Simplon%20Clermont--Ferrand-001F54?style=for-the-badge&logo=simplon&logoColor=white" alt="École Simplon Clermont-Ferrand" />
   </a>
 </div>
-
+<br>
 Je suis **Développeuse Web & Mobile Full Stack**, passionnée par le **design**, le **code** et le **diy**. Curieuse, créative, organisée et toujours prête à apprendre, je me forme actuellement chez Simplon à Clermont-Ferrand.
 
 Mon **ambition** sur des projets professionnelles à venir sont pour ma part, une opportunité à saisir et une suite bien entendu, la **CDA** (Concepteur Développement d'Application) & la **Cybersécurité**.
