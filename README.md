@@ -9,7 +9,8 @@ Mon **ambition** sur des projets professionnelles à venir sont pour ma part, un
   <a href="https://www.linkedin.com/in/fannysaez">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="mailto:design.dev.diy@gmail.com" style="margin-left: 10px;">
+  &nbsp;&nbsp;
+  <a href="mailto:design.dev.diy@gmail.com">
     <img src="https://img.shields.io/badge/M'écrire-EA4335?style=for-the-badge&logoColor=white" alt="M'écrire" />
   </a>
 </p>
