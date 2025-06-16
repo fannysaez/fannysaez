@@ -12,8 +12,9 @@ Mon **ambition** sur des projets professionnelles à venir sont pour ma part, un
   <a href="https://discord.gg/rBD5jbvx" style="margin-right: 8px;">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="mailto:design.dev.diy@gmail.com">
-    <img src="https://img.shields.io/badge/Contactez%20moi%20ici-EA4335?style=for-the-badge&logoColor=white" alt="M'écrire" />
+  <a href="mailto:design.dev.diy@gmail.com" style="margin-right: 8px;">
+    <img src="https://img.shields.io/badge/Contactez%20moi%20ici-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="M'écrire" />
+  </a>
   </a>
 </p>
 
