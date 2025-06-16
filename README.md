@@ -6,7 +6,6 @@ Mon **ambition** sur des projets professionnelles à venir sont pour ma part, un
 <br><br>
 
 <p align="center">
-  <p align="center">
     <a href="https://www.linkedin.com/in/fannysaez" style="margin: 0 15px;">
       <img src="https://img.shields.io/badge/Profil%20Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
     </a>
