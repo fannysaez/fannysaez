@@ -12,9 +12,17 @@ Mon **ambition** sur des projets professionnelles à venir sont pour ma part, un
   <a href="https://discord.gg/rBD5jbvx" style="margin-right: 8px;">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
+  <a href="https://www.instagram.com/designdevwebdiy/" style="margin-right: 8px;">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
+  </a>
   <a href="mailto:design.dev.diy@gmail.com" style="margin-right: 8px;">
     <img src="https://img.shields.io/badge/Contactez%20moi%20ici-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="M'écrire" />
   </a>
+  <a href="https://fannysaez.github.io/cv-en-ligne" style="margin-right: 8px;">
+    <img src="https://img.shields.io/badge/CV%20en%20ligne-4CAF50?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="CV en ligne" />
+  </a>
+  <a href="https://fannysaez.github.io/my_portfolio" style="margin-right: 8px;">
+    <img src="https://img.shields.io/badge/Mon%20portfolio-FFB300?style=for-the-badge&logo=portfolio&logoColor=white" alt="Mon portfolio" />
   </a>
 </p>
 
