@@ -1,4 +1,15 @@
-### 👋 Hello, moi c’est Fanny !
+<table width="100%">
+  <tr>
+    <td align="left" valign="middle">
+      <h3>👋 Hello, moi c’est Fanny !</h3>
+    </td>
+    <td align="right" valign="middle">
+      <a href="https://www.simplon.co/campus/clermont-ferrand">
+        <img src="https://img.shields.io/badge/Simplon%20Clermont--Ferrand-001F54?style=for-the-badge&logo=simplon&logoColor=white" alt="École Simplon Clermont-Ferrand" />
+      </a>
+    </td>
+  </tr>
+</table>
 
 Je suis **Développeuse Web & Mobile Full Stack**, passionnée par le **design**, le **code** et le **diy**. Curieuse, créative, organisée et toujours prête à apprendre, je me forme actuellement chez Simplon à Clermont-Ferrand.
 
