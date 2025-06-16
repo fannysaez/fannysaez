@@ -11,7 +11,7 @@ Mon **ambition** sur des projets professionnelles à venir sont pour ma part, un
   </a>
   &nbsp;&nbsp;
   <a href="mailto:design.dev.diy@gmail.com">
-    <img src="https://img.shields.io/badge/M'écrire-EA4335?style=for-the-badge&logoColor=white" alt="M'écrire" />
+    <img src="https://img.shields.io/badge/Contactez moi ici-EA4335?style=for-the-badge&logoColor=white" alt="M'écrire" />
   </a>
 </p>
 
