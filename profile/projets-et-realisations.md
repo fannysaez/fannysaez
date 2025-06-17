@@ -1,4 +1,4 @@
-### 🚀 Projets & Réalisations
+rojets & Réalisations
 
 | Projet                                                                 | Description                                                    | Technologies                                                                 |
 | ---------------------------------------------------------------------- | -------------------------------------------------------------- | ---------------------------------------------------------------------------- |
@@ -9,7 +9,13 @@
 | ![Équipe Rouge](https://img.shields.io/badge/Hackathon-%C3%89quipe%20Rouge-red)| 36h de collaboration intense avec une équipe extra ! 💪     | ![WordPress](https://img.shields.io/badge/WordPress-CMS-21759B) ![SEO](https://img.shields.io/badge/SEO-Optimisation-yellowgreen) ![Green UX/UI](https://img.shields.io/badge/Green%20UX/UI-Eco%20Design-lightgreen) |
 
 ---
-
+<br>
 <p align="center">
-  <a href="./competences.md">Suivant</a>
+  <a href="../README.md" style="display:inline-block; margin-right:10px;">
+    <img src="https://img.shields.io/badge/Précédent-4CAF50?style=for-the-badge&logoColor=white" alt="Précédent" />
+  </a>
+  <a href="./competences.md" style="display:inline-block;">
+    <img src="https://img.shields.io/badge/Suivant-4CAF50?style=for-the-badge&logoColor=white" alt="Suivant" />
+  </a>
 </p>
+
