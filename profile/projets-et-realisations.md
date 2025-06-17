@@ -1,8 +1,6 @@
-<p align="center">
-  <strong>
-    <h3>Projets & Réalisations</h3>
-  </strong>
-</p>
+<div align="center">
+  <h3><strong>Projets & Réalisations </strong></h3>
+</div>
 
 ---
 
