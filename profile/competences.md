@@ -20,10 +20,13 @@
 
 ![Graphique](https://go-skill-icons.vercel.app/api/icons?i=composer,npm,git,github,discord,codepen,powershell,stackoverflow)
 
-
 ---
-
-
+<br>
 <p align="center">
-  <a href="./hackathon.md">Suivant</a>
+  <a href="./projets-et-realisations.md" style="display:inline-block; margin-right:10px;">
+    <img src="https://img.shields.io/badge/Précédent-4CAF50?style=for-the-badge&logoColor=white" alt="Précédent" />
+  </a>
+  <a href="./hackathon.md" style="display:inline-block;">
+    <img src="https://img.shields.io/badge/Suivant-4CAF50?style=for-the-badge&logoColor=white" alt="Suivant" />
+  </a>
 </p>
