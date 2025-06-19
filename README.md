@@ -34,8 +34,38 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
 </p>
+---
+
+## 📖 Table des matières
+
+- **[🏠 Accueil](README.md)** - Présentation générale
+- **[💼 Projets & Réalisations](profile/projets-et-realisations.md)** - Portfolio complet
+- **[🛠️ Compétences](profile/competences.md)** - Stack détaillée
+- **[🎯 Hackathon](profile/hackathon.md)** - Événements & Expérience
+- **[🎓 Stage Freelance DevWebMobile](profile/stage-freelance-devwebmobile.md)** - Expérience professionnelle
+- **[📍 Coordonnées](profile/coordonnees.md)** - Informations de contact
 
 ---
+
+## 📂 Structure du projet
+
+```bash
+fannysaez/
+├── README.md                                    # Page d'accueil du profil
+├── assets/
+│   └── icons/
+│       └── svg/
+│           ├── better-auth-logo-dark.svg
+│           └── resend-icon-white.svg
+└── profile/
+  ├── projets-et-realisations.md              # Portfolio détaillé
+  ├── competences.md                           # Compétences techniques
+  ├── hackathon.md                             # Hackathons et événements
+  └── stage-freelance-devwebmobile.md         # Expérience stage/freelance
+  ├── coordonnees.md                           # Informations de contact
+```
+---
+
 ### 🔥 Ce que je fais
 
 | Compétence                     | Détails                                                                 | Explication (résumé) |
