@@ -24,8 +24,12 @@ Compétences mobilisées : leadership, travail d’équipe, coordination, organi
 
 * 🚀 Motivation & adaptabilité
 
----
-
+<br>
 <p align="center">
-  <a href="./stage-freelance-devwebmobile.md">Suivant</a>
+  <a href="./competences.md" style="display:inline-block; margin-right:10px;">
+    <img src="https://img.shields.io/badge/Précédent-4CAF50?style=for-the-badge&logoColor=white" alt="Précédent" />
+  </a>
+  <a href="./stage-freelance-devwebmobile.md" style="display:inline-block;">
+    <img src="https://img.shields.io/badge/Suivant-4CAF50?style=for-the-badge&logoColor=white" alt="Suivant" />
+  </a>
 </p>
