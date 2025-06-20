@@ -24,6 +24,8 @@ Compétences mobilisées : leadership, travail d’équipe, coordination, organi
 
 * 🚀 Motivation & adaptabilité
 
+---
+
 <br>
 <p align="center">
   <a href="./competences.md" style="display:inline-block; margin-right:10px;">
