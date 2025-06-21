@@ -25,6 +25,12 @@
 
 ---
 
+<br>
 <p align="center">
-  <a href="./coordonnees.md">Suivant</a>
+  <a href="./hackathon.md" style="display:inline-block; margin-right:10px;">
+    <img src="https://img.shields.io/badge/Précédent-4CAF50?style=for-the-badge&logoColor=white" alt="Précédent" />
+  </a>
+  <a href="./coordonnees.md" style="display:inline-block;">
+    <img src="https://img.shields.io/badge/Suivant-4CAF50?style=for-the-badge&logoColor=white" alt="Suivant" />
+  </a>
 </p>
