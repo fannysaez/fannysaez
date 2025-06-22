@@ -2,7 +2,7 @@
 ### 📫 Me contacter
 
 <p align="center">
-  <img src="../assets/img/carte-de-contact.webp" alt="Carte de visite" width="350" />
+  <img src="../assets/img/carte-de-contact.webp" alt="Carte de visite" width="450" />
 </p>
 
 ---
