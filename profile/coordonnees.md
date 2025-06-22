@@ -1,19 +1,20 @@
 
 ### 📫 Me contacter
 
-- [Portfolio](https://fannysaez.github.io/my_portfolio/)
-- [CV en ligne](https://fannysaez.github.io/cv-en-ligne/)
-
-#
-- 🔗 [LinkedIn](https://www.linkedin.com/in/fannysaez/)
-- 📸 [Instagram](https://www.instagram.com/designdevwebdiy/)
-- ✉️ [Contactez-moi](mailto:fanny.saez.0486@gmail.com)
-
+<p align="center">
+  <img src="../assets/img/carte-de-contact.webp" alt="Carte de visite" />
+</p>
 
 ---
 
 **Merci pour votre visite !** 🌟
 
+<br>
 <p align="center">
-  <a href="https://github.com/fannysaez">Retour</a>
+  <a href="./stage-freelance-devwebmobile.md" style="display:inline-block; margin-right:10px;">
+    <img src="https://img.shields.io/badge/Précédent-4CAF50?style=for-the-badge&logoColor=white" alt="Précédent" />
+  </a>
+  <a href="https://github.com/fannysaez" style="display:inline-block;">
+    <img src="https://img.shields.io/badge/retour-4CAF50?style=for-the-badge&logoColor=white" alt="retour" />
+  </a>
 </p>
