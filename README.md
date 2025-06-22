@@ -81,9 +81,11 @@ fannysaez/
 ### My stats ⭐
 
 <p align="center">
+
   <img alt="Fanny's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=fannysaez&show_icons=true&theme=transparent"/>
-  <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fannysaez&layout=compact&langs_count=8"/>
-</p>
+  <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=fannysaez&theme=transparent&locale=fr&mode=weekly" alt="GitHub Streak" /></a>
+  <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fannysaez&layout=compact&langs_count=10"/>
+  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=fannysaez&theme=flat&column=4&margin-w=10"/>
 
 ---
 <br>
