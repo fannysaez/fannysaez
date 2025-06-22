@@ -1,10 +1,10 @@
 ### 📫 Me contacter
 <p align="center">
   <img src="../assets/img/carte-de-contact.webp" alt="Carte de visite" width="600" />
+**Merci pour votre visite !** 🌟
 </p>
 
 ---
-**Merci pour votre visite !** 🌟
 <br>
 <p align="center">
   <a href="./stage-freelance-devwebmobile.md" style="display:inline-block; margin-right:10px;">
