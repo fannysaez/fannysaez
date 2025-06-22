@@ -1,6 +1,8 @@
-### 📫 Me contacter
+<div style="display: flex; justify-content: space-between; align-items: center;">
+  <p><strong>📫 Me contacter | Merci pour votre visite !</strong> 🌟</p>
+</div>
+
 <p align="center">
-**Merci pour votre visite !** 🌟
   <img src="../assets/img/carte-de-contact.webp" alt="Carte de visite" width="600" />
 </p>
 
