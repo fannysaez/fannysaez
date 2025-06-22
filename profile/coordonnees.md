@@ -3,7 +3,7 @@
 </div>
 
 <p align="center">
-  <img src="../assets/img/carte-de-contact.webp" alt="Carte de visite" width="600" />
+  <img src="../assets/img/carte-de-contact.png" alt="Carte de visite" width="600" />
 </p>
 
 ---
