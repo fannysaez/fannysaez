@@ -1,7 +1,7 @@
 ### 📫 Me contacter
 <p align="center">
-  <img src="../assets/img/carte-de-contact.webp" alt="Carte de visite" width="600" />
 **Merci pour votre visite !** 🌟
+  <img src="../assets/img/carte-de-contact.webp" alt="Carte de visite" width="600" />
 </p>
 
 ---
