@@ -82,8 +82,6 @@ fannysaez/
 
 <p align="center">
 
-<img src="https://raw.githubusercontent.com/fannysaez/fannysaez/output/snake.svg" alt="Snake animation" />
-
 <img alt="Fanny's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=fannysaez&show_icons=true&theme=transparent"/>
   <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=fannysaez&theme=transparent&locale=fr&mode=weekly" alt="GitHub Streak" /></a>
   <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fannysaez&layout=compact&langs_count=10"/>
