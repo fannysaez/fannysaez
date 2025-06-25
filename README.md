@@ -1,8 +1,7 @@
 <div align="center">
   <h3>👋 Hello, moi c’est Fanny !</h3>
-  <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&color=6EC9FF&lines=Développeuse+FullStack;Future+Formation+de+Concepteur+Développement+Application+%26+DevOps+à+la+recherche+d'une+Alternance;Projet+à+venir+:+CDA+%26+DevOps+(Alternance)+et+Cybersécurité;Multicasquettes+:+DevWeb+%26+Mobile,+Diy+et+Papéterie+Personnalisée;Autodidacte+depuis+%2B+2+ans" alt="Typing SVG" />
-</p>
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&color=6EC9FF&lines=Développeuse+FullStack;Future+Formation+de+Concepteur+Développement+Application+%26+DevOps+à+la+recherche+d'une+Alternance;Projet+à+venir+:+CDA+%26+DevOps+(Alternance)+et+Cybersécurité;Multicasquettes+:+DevWeb+%26+Mobile,+Diy+et+Papéterie+Personnalisée;Autodidacte+depuis+%2B+2+ans" alt="Typing SVG" />
+
   <a href="https://www.simplon.co/campus/clermont-ferrand">
     <img src="https://img.shields.io/badge/Simplon%20Clermont--Ferrand-001F54?style=for-the-badge&logo=simplon&logoColor=white" alt="École Simplon Clermont-Ferrand" />
   </a>
