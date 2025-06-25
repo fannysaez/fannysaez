@@ -1,7 +1,7 @@
 <div align="center">
   <h3>👋 Hello, moi c’est Fanny !</h3>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=135&pause=1000&center=true&vCenter=true&width=10000&height=700&lines=D%C3%A9veloppeuse+FullStack;Future+Formation+de+Concepteur+D%C3%A9veloppement+Application+%26+DevOps+%C3%A0+la+recherche+d'une+Alternance;Projet+%C3%A0+venir+%3A+CDA+%26+DevOps+(Alternance+de+18+mois)++Rythme+(1+semaine+formation+%2F+3+semaines+entreprise)+et+Cybers%C3%A9curit%C3%A9;Multicasquettes+%3A+DevWeb+%26+Mobile%2C+Diy+et+Pap%C3%A9terie+Personnalis%C3%A9e;Autodidacte+depuis+%2B+2+ans" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=136&pause=1000&center=true&vCenter=true&width=10000&height=700&lines=D%C3%A9veloppeuse+FullStack;Future+Formation+de+Concepteur+D%C3%A9veloppement+Application+%26+DevOps+%C3%A0+la+recherche+d'une+Alternance;Projet+%C3%A0+venir+%3A+CDA+%26+DevOps+(Alternance+de+18+mois)++Rythme+(1+semaine+formation+%2F+3+semaines+entreprise)+et+Cybers%C3%A9curit%C3%A9;Multicasquettes+%3A+DevWeb+%26+Mobile%2C+Diy+et+Pap%C3%A9terie+Personnalis%C3%A9e;Autodidacte+depuis+%2B+2+ans" alt="Typing SVG" /></a>
   <a href="https://www.simplon.co/campus/clermont-ferrand">
     <img src="https://img.shields.io/badge/Simplon%20Clermont--Ferrand-001F54?style=for-the-badge&logo=simplon&logoColor=white" alt="École Simplon Clermont-Ferrand" />
   </a>
