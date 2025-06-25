@@ -1,7 +1,8 @@
 <div align="center">
   <h3>👋 Hello, moi c’est Fanny !</h3>
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&color=6EC9FF&lines=Développeuse+FullStack;Future+Formation+de+Concepteur+Développement+Application+%26+DevOps+à+la+recherche+d'une+Alternance;Projet+à+venir+:+CDA+%26+DevOps+(Alternance)+et+Cybersécurité;Multicasquettes+:+DevWeb+%26+Mobile,+Diy+et+Papéterie+Personnalisée;Autodidacte+depuis+%2B+2+ans" alt="Typing SVG" />
-
+  <p align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=700&color=6EC9FF&lines=Développeuse+FullStack;Future+Formation+de+Concepteur+Développement+Application+%26+DevOps+à+la+recherche+d'une+Alternance;Projet+à+venir+:+CDA+%26+DevOps+(Alternance)+et+Cybersécurité;Multicasquettes+:+DevWeb+%26+Mobile,+Diy+et+Papéterie+Personnalisée;Autodidacte+depuis+%2B+2+ans" alt="Typing SVG" />
+</p>
   <a href="https://www.simplon.co/campus/clermont-ferrand">
     <img src="https://img.shields.io/badge/Simplon%20Clermont--Ferrand-001F54?style=for-the-badge&logo=simplon&logoColor=white" alt="École Simplon Clermont-Ferrand" />
   </a>
@@ -13,7 +14,6 @@
     Mon <strong>ambition</strong> sur des projets professionnelles à venir sont pour ma part, une opportunité à saisir et une suite bien entendu, la <strong>CDA</strong> (Concepteur Développement d'Application) &amp; la <strong>Cybersécurité</strong>.
   </blockquote>
 </div>
-
 <br>
 
 <p align="center">
@@ -83,10 +83,10 @@ fannysaez/
 ### My stats ⭐
 
 <p align="center">
-
-<img alt="Fanny's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=fannysaez&show_icons=true&theme=transparent"/>
+  <img alt="Fanny's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=fannysaez&show_icons=true&theme=transparent"/>
   <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fannysaez&layout=compact&langs_count=10"/>
   <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=fannysaez&theme=flat&column=4&margin-w=10"/>
+</p>
 
 ---
 <br>
