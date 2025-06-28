@@ -20,7 +20,11 @@
 
 #### ☆ Bases de données
 
-![Bases de données](https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,phpmyadmin&perline=3)
+![Bases de données](https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,phpmyadmin,neon&perline=4)
+
+#### ☆ ORM
+
+![ORM](https://go-skill-icons.vercel.app/api/icons?i=prisma&perline=1)
 
 #### ☆ Gestionnaires de paquets
 
@@ -56,7 +60,7 @@
 
 #### ☆ Outils d'organisation
 
-![Organisation](https://go-skill-icons.vercel.app/api/icons?i=trello,notion&perline=3)
+![Organisation](https://go-skill-icons.vercel.app/api/icons?i=trello,notion&perline=2)
 
 ---
 
