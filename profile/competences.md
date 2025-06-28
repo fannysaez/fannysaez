@@ -60,7 +60,7 @@
 
 #### ☆ Outils d'organisation
 
-![Organisation](https://go-skill-icons.vercel.app/api/icons?i=trello,notion&perline=2)
+![Organisation](https://go-skill-icons.vercel.app/api/icons?i=notion&perline=2)
 
 ---
 
