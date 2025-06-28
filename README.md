@@ -2,15 +2,27 @@
   <h3>👋 Hello, moi c’est Fanny !</h3>
 <p align="center">
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=270&pause=1000&center=true&vCenter=true&width=20000&height=1000&lines=D%C3%A9veloppeuse+FullStack;Future+Formation+de+Concepteur+D%C3%A9veloppement+Application+%26+DevOps+%C3%A0+la+recherche+d'une+Alternance;Projet+%C3%A0+venir+%3A+CDA+%26+DevOps+(Alternance+de+18+mois)++Rythme+(1+semaine+formation+%2F+3+semaines+entreprise)+et+Cybers%C3%A9curit%C3%A9;Multicasquettes+%3A+DevWeb+%26+Mobile%2C+Diy+et+Pap%C3%A9terie+Personnalis%C3%A9e;Autodidacte+depuis+%2B+2+ans" alt="Typing SVG" /></a>
+
   <a href="https://www.simplon.co/campus/clermont-ferrand">
     <img src="https://img.shields.io/badge/Simplon%20Clermont--Ferrand-001F54?style=for-the-badge&logo=simplon&logoColor=white" alt="École Simplon Clermont-Ferrand" />
   </a>
+  <a href="https://fannysaez.github.io/my_portfolio/download/SAEZ%20Fanny%20-%20CDA%20et%20DevOps%20en%20Alternance%20(18%20mois)%20-%202025-2027-OK.pdf" target="_blank" style="margin-left: 8px;">
+  <img src="https://img.shields.io/badge/T%C3%A9l%C3%A9charger%20CV%20Alternance%20CDA%20%26%20DevOps-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Téléchargez CV Alternance CDA & DevOps" />
+</a>
+
 </div>
 <br>
 <div align="center" style="font-family: 'Segoe UI', Arial, sans-serif; font-size: 2rem; line-height: 1.6;">
   <blockquote>
     Je suis <strong>Développeuse Web &amp; Mobile Full Stack</strong>, passionnée par le <strong>design</strong>, le <strong>code</strong> et le <strong>diy</strong>. Curieuse, créative, organisée et toujours prête à apprendre, je me forme actuellement chez Simplon à Clermont-Ferrand.<br><br>
     Mon <strong>ambition</strong> sur des projets professionnelles à venir sont pour ma part, une opportunité à saisir et une suite bien entendu, la <strong>CDA</strong> (Concepteur Développement d'Application) &amp; la <strong>Cybersécurité</strong>.
+  </blockquote>
+<br>
+  <blockquote>
+Dans le cadre de ma future formation <em>Concepteur Développeur d'Applications (CDA) & DevOps</em>,
+je recherche activement une <strong>alternance du 13 octobre 2025 au 16 avril 2027</strong> <strong>(rythme : 1 semaine formation / 3 semaines entreprise)</strong>.
+Je souhaite intégrer une équipe dynamique où je pourrai développer mes compétences techniques tout en contribuant
+efficacement à des projets innovants et stimulants, me permettant d'allier théorie et pratique de manière optimale.
   </blockquote>
 </div>
 <br>
