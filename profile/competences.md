@@ -32,7 +32,7 @@
 
 #### ☆ Gestionnaire de versions
 
-![Versioning](https://go-skill-icons.vercel.app/api/icons?i=git,github&perline=2)
+![Versioning](https://go-skill-icons.vercel.app/api/icons?i=git&perline=2)
 
 #### ☆ Ressources & communautés
 
