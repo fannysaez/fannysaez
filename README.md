@@ -1,7 +1,7 @@
 <div align="center">
   <h3>👋 Hello, moi c’est Fanny !</h3>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=D%C3%A9veloppeuse+Web+%26+Mobile+FullStack%2C;Multi+casquettes%2C+;Future+formation+CDA+%26+DevOps%2C;Recherche+activement+une+Alternance%2C+;Du+13+octobre+2025+au+16+avril+2027%2C;Rythme+%3A+1+semaine+en+formation+;et+3+semaines+en+entreprise%2C;Autodidacte+depuis+%2B2+ans%2C;Curieuse%2C+cr%C3%A9ative+et+organis%C3%A9e%2C;Simplon+%C3%A0+Clermont-Ferrand." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=D%C3%A9veloppeuse+Web+%26+Mobile+FullStack%2C;Multi+casquettes%2C+;Future+formation+CDA+%26+DevOps%2C;Recherche+activement+une+Alternance%2C+;Du+13+octobre+2025+au+16+avril+2027%2C;Rythme+%3A+1+semaine+en+formation+;et+3+semaines+en+entreprise%2C;Autodidacte+depuis+%2B2+ans%2C;Curieuse%2C+cr%C3%A9ative+et+organis%C3%A9e%2C;Simplon+%C3%A0+Clermont-Ferrand." alt="Typing SVG" /></a><br>
 
   <a href="https://www.simplon.co/campus/clermont-ferrand">
     <img src="https://img.shields.io/badge/Simplon%20Clermont--Ferrand-001F54?style=for-the-badge&logo=simplon&logoColor=white" alt="École Simplon Clermont-Ferrand" />
