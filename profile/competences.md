@@ -28,7 +28,7 @@
 
 #### ☆ Outils de développement
 
-![Outils](https://go-skill-icons.vercel.app/api/icons?i=codepen,discord&perline=2)
+![Outils](https://go-skill-icons.vercel.app/api/icons?i=codepen&perline=1)
 
 #### ☆ Gestionnaire de versions
 
@@ -36,7 +36,7 @@
 
 #### ☆ Ressources & communautés
 
-![Communautés](https://go-skill-icons.vercel.app/api/icons?i=stackoverflow&perline=1)
+![Communautés](https://go-skill-icons.vercel.app/api/icons?i=discord,stackoverflow&perline=2)
 
 #### ☆ Terminal / Ligne de commande
 
