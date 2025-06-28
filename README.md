@@ -7,7 +7,7 @@
     <img src="https://img.shields.io/badge/Simplon%20Clermont--Ferrand-001F54?style=for-the-badge&logo=simplon&logoColor=white" alt="École Simplon Clermont-Ferrand" />
   </a>
   <a href="https://fannysaez.github.io/my_portfolio/download/SAEZ%20Fanny%20-%20CDA%20et%20DevOps%20en%20Alternance%20(18%20mois)%20-%202025-2027-OK.pdf" target="_blank" style="margin-left: 8px;">
-  <img src="https://img.shields.io/badge/T%C3%A9l%C3%A9charger%20CV%20Alternance%20CDA%20%26%20DevOps-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Téléchargez CV Alternance CDA & DevOps" />
+  <img src="https://img.shields.io/badge/T%C3%A9l%C3%A9chargez%20CV%20Alternance%20CDA%20%26%20DevOps-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Téléchargez CV Alternance CDA & DevOps" />
 </a>
 
 </div>
