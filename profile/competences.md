@@ -40,7 +40,7 @@
 
 #### ☆ Terminal / Ligne de commande
 
-![Terminal](https://go-skill-icons.vercel.app/api/icons?i=powershell,cmd,bash&perline=3)
+![Terminal](https://go-skill-icons.vercel.app/api/icons?i=powershell,bash&perline=3)
 
 #### ☆ Déploiement
 
