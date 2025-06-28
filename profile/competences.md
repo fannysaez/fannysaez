@@ -2,25 +2,64 @@
 
 #### ☆ Environnement
 
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=vscode,windows,zen,)
-#
-#### ☆ Langages & Technologies :
-
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,nodejs,php,mysql&perline=5)
-#
-![Technos](https://go-skill-icons.vercel.app/api/icons?i=bootstrap,twig,symfony,wordpress)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=vscode,windows,zen,chrome)
 
 #
+
+#### ☆ Langages
+
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,php&perline=4)
+
+#### ☆ Frameworks
+
+![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=symfony,bootstrap,nextjs,nodejs&perline=4)
+
+#### ☆ CMS
+
+![CMS](https://go-skill-icons.vercel.app/api/icons?i=wordpress&perline=1)
+
+#### ☆ Bases de données
+
+![Bases de données](https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,phpmyadmin&perline=3)
+
+#### ☆ Gestionnaires de paquets
+
+![Gestionnaires de paquets](https://go-skill-icons.vercel.app/api/icons?i=composer,npm&perline=2)
+
+#### ☆ Outils de développement
+
+![Outils](https://go-skill-icons.vercel.app/api/icons?i=codepen,discord&perline=2)
+
+#### ☆ Gestionnaire de versions
+
+![Versioning](https://go-skill-icons.vercel.app/api/icons?i=git,github&perline=2)
+
+#### ☆ Ressources & communautés
+
+![Communautés](https://go-skill-icons.vercel.app/api/icons?i=stackoverflow&perline=1)
+
+#### ☆ Terminal / Ligne de commande
+
+![Terminal](https://go-skill-icons.vercel.app/api/icons?i=powershell,cmd,bash&perline=3)
+
+#### ☆ Déploiement
+
+![Déploiement](https://go-skill-icons.vercel.app/api/icons?i=vercel,github&perline=2)
+
+#
+
 #### ☆ Outils Graphiques
 
-![Graphique](https://go-skill-icons.vercel.app/api/icons?i=ps,ai,id,xd,figma,)
+![Graphique](https://go-skill-icons.vercel.app/api/icons?i=ps,ai,id,xd,figma)
 
 #
-#### ☆ Outils 
 
-![Graphique](https://go-skill-icons.vercel.app/api/icons?i=composer,npm,git,github,discord,codepen,powershell,stackoverflow)
+#### ☆ Outils d'organisation
+
+![Organisation](https://go-skill-icons.vercel.app/api/icons?i=trello,notion&perline=3)
 
 ---
+
 <br>
 <p align="center">
   <a href="./projets-et-realisations.md" style="display:inline-block; margin-right:10px;">
