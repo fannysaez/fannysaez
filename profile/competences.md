@@ -20,7 +20,7 @@
 
 #### ☆ Bases de données
 
-![Bases de données](https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,phpmyadmin,neon&perline=4)
+![Bases de données](https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,neon&perline=4)
 
 #### ☆ ORM
 
@@ -32,7 +32,7 @@
 
 #### ☆ Outils de développement
 
-![Outils](https://go-skill-icons.vercel.app/api/icons?i=codepen&perline=1)
+![Outils](https://go-skill-icons.vercel.app/api/icons?i=codepen,postman&perline=2)
 
 #### ☆ Gestionnaire de versions
 
@@ -61,6 +61,9 @@
 #### ☆ Outils d'organisation
 
 ![Organisation](https://go-skill-icons.vercel.app/api/icons?i=notion&perline=2)
+<span style="position:relative; top:-20px;">
+  <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="Trello" height="42" style="vertical-align:middle; margin-left:8px;" />
+</span>
 
 ---
 
