@@ -6,9 +6,62 @@
   <a href="https://www.simplon.co/campus/clermont-ferrand">
     <img src="https://img.shields.io/badge/Simplon%20Clermont--Ferrand-001F54?style=for-the-badge&logo=simplon&logoColor=white" alt="École Simplon Clermont-Ferrand" />
   </a>
-  <a href="assets/pdf/SAEZ%20Fanny%20-%20CDA-DevOps%20en%20Alternance%20de%2018%20mos%20-%202025-2027-%20Ok.pdf" target="_blank" download="SAEZ_Fanny_CV_CDA_DevOps_2025-2027.pdf">
-    <img src="https://img.shields.io/badge/📄%20Télécharger%20et%20Imprimer%20le%20CV%20CDA%20%26%20DevOps-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelWidth=350" alt="Téléchargez et Imprimer le CV CDA & DevOps" />
-    </a>
+  
+  <!-- Bouton qui ouvre la modale -->
+  <a href="#" onclick="openCVModal(); return false;">
+    <img src="https://img.shields.io/badge/📄%20Téléchargez%20et%20Imprimer%20le%20CV%20CDA%20%26%20DevOps-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelWidth=350" alt="Téléchargez et Imprimer le CV CDA & DevOps" />
+  </a>
+
+  <!-- Modale CV Simplifiée -->
+  <div id="cvModal" style="display: none; position: fixed; z-index: 1000; left: 0; top: 0; width: 100%; height: 100%; background-color: rgba(0,0,0,0.8);">
+    <div style="position: relative; margin: 10% auto; padding: 30px; width: 90%; max-width: 500px; background-color: white; border-radius: 15px; text-align: center; box-shadow: 0 4px 20px rgba(0,0,0,0.3);">
+      
+      <h3 style="color: #333; margin-bottom: 20px;">📄 CV - Fanny SAEZ</h3>
+      <p style="color: #666; margin-bottom: 30px;">Concepteur Développeur d'Applications & DevOps</p>
+      
+      <!-- Actions principales -->
+      <div style="margin-bottom: 25px;">
+        <a href="assets/pdf/SAEZ%20Fanny%20-%20CDA-DevOps%20en%20Alternance%20de%2018%20mos%20-%202025-2027-%20Ok.pdf" target="_blank" style="text-decoration: none; display: block; margin-bottom: 10px;">
+          <img src="https://img.shields.io/badge/👁️%20Consulter%20le%20PDF-2196F3?style=for-the-badge&logo=eye&logoColor=white" alt="Consulter PDF" />
+        </a>
+        <a href="assets/pdf/SAEZ%20Fanny%20-%20CDA-DevOps%20en%20Alternance%20de%2018%20mos%20-%202025-2027-%20Ok.pdf" download="SAEZ_Fanny_CV_CDA_DevOps_2025-2027.pdf" style="text-decoration: none; display: block; margin-bottom: 10px;">
+          <img src="https://img.shields.io/badge/�%20Télécharger%20PDF-4CAF50?style=for-the-badge&logo=download&logoColor=white" alt="Télécharger PDF" />
+        </a>
+      </div>
+      
+      <!-- Instructions -->
+      <div style="background-color: #f8f9fa; padding: 15px; border-radius: 5px; border-left: 4px solid #ff5722; margin-bottom: 20px;">
+        <p style="margin: 0; color: #666; font-size: 14px;">
+          🖨️ <strong>Pour imprimer :</strong><br>
+          Ouvrez le PDF puis utilisez Ctrl+P (Windows) ou Cmd+P (Mac)
+        </p>
+      </div>
+      
+      <!-- Bouton fermer -->
+      <button onclick="closeCVModal()" style="background: #ff5722; color: white; border: none; border-radius: 25px; padding: 10px 20px; cursor: pointer; font-size: 14px;">
+        Fermer
+      </button>
+      
+    </div>
+  </div>
+
+  <script>
+    function openCVModal() {
+      document.getElementById('cvModal').style.display = 'block';
+    }
+    
+    function closeCVModal() {
+      document.getElementById('cvModal').style.display = 'none';
+    }
+    
+    // Fermer en cliquant en dehors
+    window.onclick = function(event) {
+      const modal = document.getElementById('cvModal');
+      if (event.target === modal) {
+        closeCVModal();
+      }
+    }
+  </script>
 
 </div>
 <br>
