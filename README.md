@@ -6,9 +6,9 @@
   <a href="https://www.simplon.co/campus/clermont-ferrand">
     <img src="https://img.shields.io/badge/Simplon%20Clermont--Ferrand-001F54?style=for-the-badge&logo=simplon&logoColor=white" alt="École Simplon Clermont-Ferrand" />
   </a>
-  <a href="https://fannysaez.github.io/my_portfolio/download/SAEZ%20Fanny%20-%20CDA%20et%20DevOps%20en%20Alternance%20(18%20mois)%20-%202025-2027-OK.pdf" target="_blank" style="margin-left: 8px;">
-  <img src="https://img.shields.io/badge/T%C3%A9l%C3%A9chargez%20CV%20Alternance%20CDA%20%26%20DevOps-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Téléchargez CV Alternance CDA & DevOps" />
-</a>
+  <a href="assets/pdf/SAEZ%20Fanny%20-%20CDA-DevOps%20en%20Alternance%20de%2018%20mos%20-%202025-2027-%20Ok.pdf" target="_blank" download="SAEZ_Fanny_CV_CDA_DevOps_2025-2027.pdf">
+    <img src="https://img.shields.io/badge/📄%20Télécharger%20%26%20Imprimer%20CV-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white" alt="Téléchargez & Imprimer CV CDA & DevOps" />
+  </a>
 
 </div>
 <br>
