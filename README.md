@@ -95,9 +95,9 @@ fannysaez/
 ### My stats ⭐
 
 <p align="center">
-  <img alt="Fanny's GitHub stats" src="https://github-readme-stats.vercel.app/api?username=fannysaez&show_icons=true&theme=transparent&cache_bust=1"/>
-  <img alt="Top langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fannysaez&layout=compact&langs_count=10&cache_bust=1"/>
-  <img alt="GitHub Trophies" src="https://github-profile-trophy.vercel.app/?username=fannysaez&theme=flat&column=4&margin-w=10&cache_bust=1"/>
+  <img alt="fannysaez's Stats" src="https://github-readme-stats.vercel.app/api?username=fannysaez&theme=prussian&show_icons=true&hide_border=false&count_private=true"/>
+  <img alt="fannysaez's Streak" src="https://github-readme-streak-stats.herokuapp.com/?user=fannysaez&theme=prussian&hide_border=false"/>
+   <img alt="fannysaez's Top Languages" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fannysaez&theme=prussian&show_icons=true&hide_border=false&layout=compact&langs_count=10"/>
 </p>
 
 ---
