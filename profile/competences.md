@@ -50,6 +50,12 @@
 
 ![Déploiement](https://go-skill-icons.vercel.app/api/icons?i=vercel,github&perline=2)
 
+#### ☆ Container
+
+![Docker](https://go-skill-icons.vercel.app/api/icons?i=docker&perline=1)
+
+_Initiation à Docker_
+
 #
 
 #### ☆ Outils Graphiques
@@ -62,7 +68,7 @@
 
 ![Organisation](https://go-skill-icons.vercel.app/api/icons?i=notion&perline=2)
 <span style="position:relative; top:-20px;">
-  <img src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="Trello" height="42" style="vertical-align:middle; margin-left:8px;" />
+<img src="https://cdn.worldvectorlogo.com/logos/trello.svg" alt="Trello" height="42" style="vertical-align:middle; margin-left:8px;" />
 </span>
 
 ---
