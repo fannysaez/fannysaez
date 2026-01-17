@@ -10,7 +10,7 @@
     <img src="https://img.shields.io/badge/📄%20CV%20complet%202026-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelWidth=350" alt="CV complet 2026" />
     </a>
     <a href="assets/pdf/New2026 - SAEZ Fanny - CDA et DevOps en Alternance - Ok.pdf" target="_blank" download="New2026 - SAEZ Fanny - CDA et DevOps en Alternance - Ok.pdf">
-    <img src="https://img.shields.io/badge/📄%20CV%20Alternance%202026-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelWidth=350" alt="CV Alternance 2026" />
+    <img src="https://img.shields.io/badge/📄%20CV%20Alternance%202026-22CBFF?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelWidth=350" alt="CV Alternance 2026" />
     </a>
 
 </div>
