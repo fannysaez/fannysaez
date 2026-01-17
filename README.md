@@ -7,7 +7,10 @@
     <img src="https://img.shields.io/badge/Simplon%20Clermont--Ferrand-001F54?style=for-the-badge&logo=simplon&logoColor=white" alt="École Simplon Clermont-Ferrand" />
   </a>
   <a href="assets/pdf/SAEZ%20Fanny%20-%20CDA-DevOps%20en%20Alternance%20de%2018%20mois%20-%202025-2027-%20Ok.pdf" target="_blank" download="SAEZ_Fanny_CV_CDA_DevOps_2025-2027.pdf">
-    <img src="https://img.shields.io/badge/📄%20Téléchargez%20et%20Imprimer%20le%20CV%20CDA%20%26%20DevOps-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelWidth=350" alt="Téléchargez et Imprimer le CV CDA & DevOps" />
+    <img src="https://img.shields.io/badge/📄%20Téléchargez%20et%20Imprimer%20le%20CV%20CDA%20%26%20DevOps-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelWidth=350" alt="CV complet 2026" />
+    </a>
+    <a href="assets/pdf/New2026 - SAEZ Fanny - CDA et DevOps en Alternance - Ok.pdf" target="_blank" download="New2026 - SAEZ Fanny - CDA et DevOps en Alternance - Ok.pdf">
+    <img src="https://img.shields.io/badge/📄%20Téléchargez%20et%20Imprimer%20le%20CV%20CDA%20%26%20DevOps-FF5722?style=for-the-badge&logo=adobeacrobatreader&logoColor=white&labelWidth=350" alt="CV Alternance2026" />
     </a>
 
 </div>
@@ -20,7 +23,7 @@
 <br>
   <blockquote>
 Dans le cadre de ma future formation <em>Concepteur Développeur d'Applications (CDA) & DevOps</em>,
-je recherche activement une <strong>alternance du 13 octobre 2025 au 16 avril 2027</strong> <strong>(rythme : 1 semaine formation / 3 semaines entreprise)</strong>.
+je recherche activement une <strong>alternance dès le 02 Février 2026</strong> <strong>(rythme : 1 semaine formation / 3 semaines entreprise)</strong> d'une durée de 18 mois.
 Je souhaite intégrer une équipe dynamique où je pourrai développer mes compétences techniques tout en contribuant
 efficacement à des projets innovants et stimulants, me permettant d'allier théorie et pratique de manière optimale.
   </blockquote>
