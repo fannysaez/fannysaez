@@ -18,7 +18,7 @@
 <div align="center" style="font-family: 'Segoe UI', Arial, sans-serif; font-size: 2rem; line-height: 1.6;">
   <blockquote>
     Je suis <strong>Développeuse Web &amp; Mobile Full Stack</strong>, passionnée par le <strong>design</strong>, le <strong>code</strong> et le <strong>diy</strong>. Curieuse, créative, organisée et toujours prête à apprendre, je me forme actuellement chez Simplon à Clermont-Ferrand.<br><br>
-    Mon <strong>ambition</strong> sur des projets professionnelles à venir sont pour ma part, une opportunité à saisir et une suite bien entendu, la <strong>CDA</strong> (Concepteur Développement d'Application) &amp; la <strong>Cybersécurité</strong>.
+    Mon <strong>ambition</strong> sur des projets professionnelles à venir sont pour ma part, une opportunité à saisir et une suite bien entendu, la <strong>CDA</strong> (Concepteur Développement d'Application) , la <strong>Cybersécurité</strong> &amp; et de <strong> l'impression 3D</strong>.
   </blockquote>
 <br>
   <blockquote>
