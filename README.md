@@ -49,8 +49,7 @@ efficacement à des projets innovants et stimulants, me permettant d'allier thé
   <a href="https://www.instagram.com/designdevwebdiy/" style="margin-right: 8px;">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-
-    <a href="https://alexia-energies.vercel.app/" style="margin-right: 8px;">
+  <a href="https://alexia-energies.vercel.app/" style="margin-right: 8px;">
       <img src="https://img.shields.io/badge/Projet%20Final%20DWWM-FED1A7?style=for-the-badge&logo=vercel&logoColor=black" alt="Projet Final DWWM" />
     </a>
 </p>
