@@ -32,7 +32,7 @@ Mon objectif : proposer des projets alliant <strong>technique</strong>, <strong>
 </blockquote>
 <br>
 
-<p >
+
   <a href="https://www.linkedin.com/in/fannysaez" style="margin-right: 8px;">
     <img src="https://img.shields.io/badge/Profil%20Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
@@ -57,8 +57,6 @@ Mon objectif : proposer des projets alliant <strong>technique</strong>, <strong>
   <a href="#"><img src="https://img.shields.io/badge/Bientôt%20Impression%203D-FC7B03?style=for-the-badge&logoColor=black" alt="Bientôt Impression 3D" />
   </a>
     
-</p>
-
 ---
 
 ## 📖 Table des matières
