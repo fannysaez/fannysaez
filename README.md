@@ -18,20 +18,18 @@
 <div align="center" style="font-family: 'Segoe UI', Arial, sans-serif; font-size: 2rem; line-height: 1.6;">
 
 <blockquote>
-Titulaire du <strong> Titre Professionnel de Développeuse Web & Web Mobile</strong>, le 20 Octobre 2025, auprès de Simplon à Clermont-Ferrand.<br><br>
+Titulaire du <strong>Titre Professionnel de Développeuse Web & Web Mobile</strong> (20 octobre 2025, Simplon – Clermont-Ferrand).<br><br>
 
-Je suis <strong>Développeuse Web &amp; Mobile Full Stack</strong>, passionnée par le <strong>design</strong>, le <strong>code</strong> et le <strong>diy</strong>. Curieuse, créative, organisée et toujours prête à apprendre.<br><br>
+Je suis <strong>Développeuse Web & Mobile Full Stack</strong>, passionnée par le <strong>design</strong>, le <strong>code</strong> et le <strong>DIY</strong>. Curieuse, créative et organisée, j’aime apprendre et relever de nouveaux défis.<br><br>
 
-Mon <strong>ambition</strong> sur des projets professionnelles à venir sont pour ma part, une opportunité à saisir et une suite bien entendu, la <strong>CDA</strong> (Concepteur Développement d'Application) , la <strong>Cybersécurité</strong> &amp; et de <strong> l'impression 3D</strong>.
+Je développe aujourd’hui un projet professionnel orienté vers la <strong>création de solutions web</strong> et d’<strong>objets personnalisés</strong>, en lien avec mes compétences en développement, design et impression 3D.
 </blockquote><br>
 
 <blockquote>
-Dans le cadre de ma future formation <em>Concepteur Développeur d'Applications (CDA) & DevOps</em>,
-je recherche activement une <strong>alternance dès le 02 Février 2026</strong> <strong>(rythme : 1 semaine formation / 3 semaines entreprise)</strong> d'une durée de 18 mois.
-Je souhaite intégrer une équipe dynamique où je pourrai développer mes compétences techniques tout en contribuant
-efficacement à des projets innovants et stimulants, me permettant d'allier théorie et pratique de manière optimale.
-  </blockquote>
-</div>
+Actuellement engagée dans un accompagnement <strong>Activ’Créa</strong>, je prépare la création de ma <strong>micro-entreprise</strong> avec un lancement prévu en <strong>2027</strong>.<br><br>
+
+Mon objectif : proposer des projets alliant <strong>technique</strong>, <strong>créativité</strong> et <strong>innovation</strong>, tout en continuant à développer mes compétences, notamment en <strong>cybersécurité</strong> et en <strong>développement avancé</strong>.
+</blockquote>
 <br>
 
 <p align="center">
