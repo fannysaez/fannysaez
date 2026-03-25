@@ -28,7 +28,7 @@ Je développe aujourd’hui un projet professionnel orienté vers la <strong>cr�
 <blockquote>
 Actuellement engagée dans un accompagnement <strong>Activ’Créa</strong>, je prépare la création de ma <strong>micro-entreprise</strong> avec un lancement prévu en <strong>2027</strong>.<br><br>
 
-Mon objectif : proposer des projets alliant <strong>technique</strong>, <strong>créativité</strong> et <strong>innovation</strong>, tout en continuant à développer mes compétences, notamment en <strong>cybersécurité</strong> et en <strong>développement avancé</strong>.
+Mon objectif : proposer des projets alliant <strong>technique</strong>, <strong>créativité</strong> et <strong>innovation</strong>, tout en continuant à développer mes compétences, notamment en <strong>cybersécurité</strong> et en <strong>impression 3D</strong>.
 </blockquote>
 <br>
 
