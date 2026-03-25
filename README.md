@@ -32,31 +32,33 @@ Mon objectif : proposer des projets alliant <strong>technique</strong>, <strong>
 </blockquote>
 <br>
 
-
-  <a href="https://www.linkedin.com/in/fannysaez" style="margin-right: 8px;">
+<p>
+  <a href="https://www.linkedin.com/in/fannysaez">
     <img src="https://img.shields.io/badge/Profil%20Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="https://discord.gg/rBD5jbvx" style="margin-right: 8px;">
+  <a href="https://discord.gg/rBD5jbvx">
     <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
   </a>
-  <a href="mailto:design.dev.diy@gmail.com" style="margin-right: 8px;">
+  <a href="mailto:design.dev.diy@gmail.com">
     <img src="https://img.shields.io/badge/Contactez%20moi%20ici-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="M'écrire" />
   </a>
-  <a href="https://fannysaez.github.io/cv-en-ligne" style="margin-right: 8px;">
+  <a href="https://fannysaez.github.io/cv-en-ligne">
     <img src="https://img.shields.io/badge/CV%20en%20ligne-4CAF50?style=for-the-badge&logo=read-the-docs&logoColor=white" alt="CV en ligne" />
   </a>
-  <a href="https://fannysaez.github.io/my_portfolio" style="margin-right: 8px;">
+  <a href="https://fannysaez.github.io/my_portfolio">
     <img src="https://img.shields.io/badge/Mon%20portfolio-FFB300?style=for-the-badge&logo=portfolio&logoColor=white" alt="Mon portfolio" />
   </a>
-  <a href="https://www.instagram.com/designdevwebdiy/" style="margin-right: 8px;">
+  <a href="https://www.instagram.com/designdevwebdiy/">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
   </a>
-  <a href="https://alexia-energies.vercel.app/" style="margin-right: 8px;">
-      <img src="https://img.shields.io/badge/Projet%20Final%20DWWM%20Oct2025-FED1A7?style=for-the-badge&logo=vercel&logoColor=black" alt="Projet Final DWWM Oct2025" />
-    </a>
-  <a href="#"><img src="https://img.shields.io/badge/Bientôt%20Impression%203D-FC7B03?style=for-the-badge&logoColor=black" alt="Bientôt Impression 3D" />
+  <a href="https://alexia-energies.vercel.app/">
+    <img src="https://img.shields.io/badge/Projet%20Final%20DWWM%20Oct2025-FED1A7?style=for-the-badge&logo=vercel&logoColor=black" alt="Projet Final DWWM Oct2025" />
   </a>
-    
+  <a href="#">
+    <img src="https://img.shields.io/badge/Bientôt%20Impression%203D-FC7B03?style=for-the-badge&logoColor=black" alt="Bientôt Impression 3D" />
+  </a>
+</p>
+
 ---
 
 ## 📖 Table des matières
