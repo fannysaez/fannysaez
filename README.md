@@ -32,6 +32,8 @@ Mon objectif : proposer des projets alliant <strong>technique</strong>, <strong>
 </blockquote>
 <br>
 
+</div>
+
 <p>
   <a href="https://www.linkedin.com/in/fannysaez">
     <img src="https://img.shields.io/badge/Profil%20Linkedin-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
