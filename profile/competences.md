@@ -12,7 +12,7 @@
 
 #### ☆ Frameworks
 
-![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=symfony,bootstrap,nextjs,nodejs&perline=4)
+![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=symfony,bootstrap,nextjs,nodejs,vue&perline=5)
 
 #### ☆ CMS
 
@@ -25,6 +25,15 @@
 #### ☆ ORM
 
 ![ORM](https://go-skill-icons.vercel.app/api/icons?i=prisma&perline=1)
+
+#### ☆ Auth & Sécurité
+
+![Auth](https://go-skill-icons.vercel.app/api/icons?i=nodejs,shield&perline=4) ![BcryptJs](https://img.shields.io/badge/BcryptJs-bcryptjs-6CC24A) ![JWT](https://img.shields.io/badge/JWT-json--web--token-F7DF1E)
+
+#### ☆ Librairies & Intégrations
+
+![Libs](https://go-skill-icons.vercel.app/api/icons?i=react,cloudinary&perline=4) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-Forms-61DAFB) ![Email.js](https://img.shields.io/badge/Email.js-Email-FF6A00) ![Resend](https://img.shields.io/badge/Resend-Email-22CBFF)
+
 
 #### ☆ Gestionnaires de paquets
 
@@ -50,6 +59,10 @@
 
 ![Déploiement](https://go-skill-icons.vercel.app/api/icons?i=vercel,github&perline=2)
 
+#### ☆ Services Cloud
+
+![Cloud DB](https://go-skill-icons.vercel.app/api/icons?i=neon,vercel&perline=4)
+
 #### ☆ Container
 
 ![Docker](https://go-skill-icons.vercel.app/api/icons?i=docker&perline=1)
@@ -72,6 +85,21 @@ _Initiation à Docker_
 </span>
 
 ---
+
+## 📚 Documentation & ressources
+
+- Next.js: https://nextjs.org/
+- Prisma: https://www.prisma.io/
+- PostgreSQL: https://www.postgresql.org/
+- BcryptJs: https://www.npmjs.com/package/bcryptjs
+- JWT (JSON Web Tokens): https://jwt.io/
+- Vercel: https://vercel.com/
+- Neon: https://neon.tech/
+- Email.js: https://www.emailjs.com/
+- Resend: https://resend.com/
+- React Hook Form: https://react-hook-form.com/
+- Cloudinary: https://cloudinary.com/
+- Vue.js: https://vuejs.org/
 
 <br>
 <p align="center">
