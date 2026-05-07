@@ -1,7 +1,7 @@
 <div align="center">
   <h3>👋 Hello, moi c’est Fanny !</h3>
 <p align="center">
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&center=true&vCenter=true&width=435&lines=D%C3%A9veloppeuse+Web+%26+Mobile+FullStack%2C;Multi+casquettes%2C;Apprentissage+autodidacte;Projet;Entrepreneurial+;Micro-entreprise+;BGE AURA+;Multi-activités" alt="Typing SVG" /></a><br>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&width=435&lines=D%C3%A9veloppeuse+Web+%26+Web+Mobile+%2C;FullStack+%3A+Frond-end+%2F+Back-end%2C;Multi+casquettes%2C;Apprentissage+autodidacte%2C;Projet+Entrepreneurial%2C;Micro-entreprise+multi+activit%C3%A9s%2C;BGE+AURA+%C3%A0+Clermont-Ferrand%2C;Passionn%C3%A9e%2C+vivre+de+mes+activit%C3%A9es." alt="Typing SVG" /></a><br>
 
   <a href="https://fannysaez.github.io/cv-en-ligne">
     <img src="https://img.shields.io/badge/Clermont--Ferrand-001F54?style=for-the-badge&logoColor=white" alt="Clermont-Ferrand" />
