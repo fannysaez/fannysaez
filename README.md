@@ -12,7 +12,7 @@
   <a href="https://calendly.com/" target="_blank">
     <img src="https://img.shields.io/badge/Prendre%20RDV-Calendly%20%28en%20cours...%29-22C55E?style=for-the-badge&logo=calendly&logoColor=white" alt="Prendre RDV (en cours...)" />
   </a>
-  <a href="https://www.bge.fr/" target="_blank">
+  <a href="https://www.bge-aura.fr/" target="_blank">
     <img src="https://img.shields.io/badge/BGE%20AURA-Accompagnement-0077B5?style=for-the-badge&logoColor=white" alt="BGE AURA" />
   </a>
 
