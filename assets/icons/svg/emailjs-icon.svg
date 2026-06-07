@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <rect width="500" height="500" rx="80" fill="#D97706"/>
+  <!-- Envelope outline -->
+  <rect x="78" y="158" width="344" height="228" rx="16" fill="none" stroke="white" stroke-width="26"/>
+  <!-- Envelope fold (V shape) -->
+  <polyline points="78,168 250,285 422,168" fill="none" stroke="white" stroke-width="26" stroke-linejoin="round" stroke-linecap="round"/>
+</svg>

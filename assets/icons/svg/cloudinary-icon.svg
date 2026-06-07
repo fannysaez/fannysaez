@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 500 500">
+  <rect width="500" height="500" rx="80" fill="#3448C5"/>
+  <!-- Cloud (overlapping white circles + rect) -->
+  <circle cx="197" cy="232" r="76" fill="white"/>
+  <circle cx="303" cy="232" r="76" fill="white"/>
+  <circle cx="148" cy="270" r="57" fill="white"/>
+  <circle cx="352" cy="270" r="57" fill="white"/>
+  <rect x="91" y="280" width="318" height="62" fill="white"/>
+  <!-- Upload arrow (blue cutout through the cloud) -->
+  <polygon points="250,193 215,237 285,237" fill="#3448C5"/>
+  <rect x="234" y="235" width="32" height="68" fill="#3448C5"/>
+</svg>
