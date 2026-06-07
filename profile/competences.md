@@ -18,7 +18,8 @@
 
 #### ☆ Environnement
 
-![Tools](https://go-skill-icons.vercel.app/api/icons?i=vscode,windows,zen,chrome)
+![Tools](https://go-skill-icons.vercel.app/api/icons?i=vscode,windows,zen,chrome)<br>
+![WampServer64](https://img.shields.io/badge/WampServer64-6A0DAD?style=flat-square&logoColor=white) ![Local by Flywheel](https://img.shields.io/badge/Local%20by%20Flywheel-51BB7B?style=flat-square&logoColor=white)
 
 #
 
@@ -50,7 +51,7 @@
 
 ![Libs](https://go-skill-icons.vercel.app/api/icons?i=react,stripe&perline=2)<br>
 <img src="../assets/icons/svg/cloudinary-icon.svg" height="48" alt="Cloudinary" /> <img src="../assets/icons/svg/calendly-icon.svg" height="48" alt="Calendly" /><br>
-<img src="../assets/icons/svg/brevo-icon.svg" height="48" alt="Brevo" /> <img src="../assets/icons/svg/resend-icon.svg" height="48" alt="Resend" /> <img src="../assets/icons/svg/emailjs-icon.svg" height="48" alt="Email.js" />
+<img src="../assets/icons/svg/brevo-icon.svg" height="48" alt="Brevo" /> <img src="../assets/icons/svg/resend-icon.svg" height="48" alt="Resend" />
 
 
 #### ☆ Gestionnaires de paquets
@@ -59,7 +60,8 @@
 
 #### ☆ Outils de développement
 
-![Outils](https://go-skill-icons.vercel.app/api/icons?i=codepen,postman,eslint,prettier&perline=4)
+![Outils](https://go-skill-icons.vercel.app/api/icons?i=codepen,postman,eslint,prettier&perline=4)<br>
+![FileZilla](https://img.shields.io/badge/FileZilla-BF0000?style=flat-square&logo=filezilla&logoColor=white)
 
 #### ☆ Tests
 
@@ -93,13 +95,15 @@ _Initiation à Docker_
 
 #### ☆ Impression 3D
 
-<img src="../assets/icons/svg/bambuLab-icon.svg" height="48" alt="Bambu Lab" /> <img src="../assets/icons/svg/tinkercad-icon.svg" height="48" alt="Tinkercad" />
+<img src="../assets/icons/svg/bambuLab-icon.svg" height="48" alt="Bambu Lab" /> <img src="../assets/icons/svg/tinkercad-icon.svg" height="48" alt="Tinkercad" /><br>
+![Bambu Studio](https://img.shields.io/badge/Bambu%20Studio-1BA94C?style=flat-square&logoColor=white)
 
 #
 
 #### ☆ Outils Graphiques
 
-![Graphique](https://go-skill-icons.vercel.app/api/icons?i=ps,ai,id,xd,figma)
+![Graphique](https://go-skill-icons.vercel.app/api/icons?i=ps,ai,id,xd,figma)<br>
+![Silhouette Studio](https://img.shields.io/badge/Silhouette%20Studio-000000?style=flat-square&logoColor=white)
 
 #
 
