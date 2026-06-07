@@ -21,9 +21,9 @@
 
 ![Languages](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,php&perline=4)
 
-#### ☆ Frameworks
+#### ☆ Frameworks & Build tools
 
-![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=symfony,bootstrap,nextjs,nodejs,vue&perline=5)
+![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=symfony,bootstrap,nextjs,nodejs,vue,vite&perline=6)
 
 #### ☆ CMS
 
@@ -43,16 +43,20 @@
 
 #### ☆ Librairies & Intégrations
 
-![Libs](https://go-skill-icons.vercel.app/api/icons?i=react,cloudinary&perline=4) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-Forms-61DAFB) ![Email.js](https://img.shields.io/badge/Email.js-Email-FF6A00) ![Resend](https://img.shields.io/badge/Resend-Email-22CBFF)
+![Libs](https://go-skill-icons.vercel.app/api/icons?i=react,cloudinary,stripe&perline=4) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-Forms-61DAFB) ![Email.js](https://img.shields.io/badge/Email.js-Email-FF6A00) ![Resend](https://img.shields.io/badge/Resend-Email-22CBFF) ![Brevo](https://img.shields.io/badge/Brevo-Email-0092FF) ![Pinia](https://img.shields.io/badge/Pinia-State%20Management-FFD859) ![Vue Router](https://img.shields.io/badge/Vue%20Router-Routing-42b883) ![jsPDF](https://img.shields.io/badge/jsPDF-PDF%20génération-E74C3C) ![Web Push VAPID](https://img.shields.io/badge/Web%20Push%20VAPID-Notifications-FF6B35)
 
 
 #### ☆ Gestionnaires de paquets
 
-![Gestionnaires de paquets](https://go-skill-icons.vercel.app/api/icons?i=composer,npm&perline=2)
+![Gestionnaires de paquets](https://go-skill-icons.vercel.app/api/icons?i=composer,npm,yarn&perline=3)
 
 #### ☆ Outils de développement
 
-![Outils](https://go-skill-icons.vercel.app/api/icons?i=codepen,postman&perline=2)
+![Outils](https://go-skill-icons.vercel.app/api/icons?i=codepen,postman,eslint,prettier&perline=4)
+
+#### ☆ Tests
+
+![Tests](https://go-skill-icons.vercel.app/api/icons?i=vitest,playwright&perline=2)
 
 #### ☆ Gestionnaire de versions
 
@@ -68,11 +72,11 @@
 
 #### ☆ Déploiement
 
-![Déploiement](https://go-skill-icons.vercel.app/api/icons?i=vercel,github&perline=2)
+![Déploiement](https://go-skill-icons.vercel.app/api/icons?i=vercel,netlify,github&perline=3)
 
 #### ☆ Services Cloud
 
-![Cloud DB](https://go-skill-icons.vercel.app/api/icons?i=neon,vercel&perline=4)
+![Cloud DB](https://go-skill-icons.vercel.app/api/icons?i=neon,vercel,supabase,netlify&perline=4)
 
 #### ☆ Container
 
@@ -111,6 +115,16 @@ _Initiation à Docker_
 - React Hook Form: https://react-hook-form.com/
 - Cloudinary: https://cloudinary.com/
 - Vue.js: https://vuejs.org/
+- Vite: https://vite.dev/
+- Pinia: https://pinia.vuejs.org/
+- Vue Router: https://router.vuejs.org/
+- Supabase: https://supabase.com/
+- Stripe: https://stripe.com/
+- Brevo: https://www.brevo.com/
+- jsPDF: https://github.com/parallax/jsPDF
+- Netlify: https://www.netlify.com/
+- Vitest: https://vitest.dev/
+- Playwright: https://playwright.dev/
 
 <br>
 <p align="center">
