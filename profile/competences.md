@@ -24,7 +24,7 @@
 
 #### ☆ Langages
 
-![Languages](https://go-skill-icons.vercel.app/api/icons?i=html,css,js,php&perline=4)
+![Languages](https://go-skill-icons.vercel.app/api/icons?i=html,css3,js,php&perline=4)
 
 #### ☆ Frameworks & Build tools
 
