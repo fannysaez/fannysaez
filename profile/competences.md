@@ -51,7 +51,7 @@
 
 ![Libs](https://go-skill-icons.vercel.app/api/icons?i=react,stripe&perline=2)<br>
 <img src="../assets/icons/svg/cloudinary-icon.svg" height="48" alt="Cloudinary" /> <img src="../assets/icons/svg/calendly-icon.svg" height="48" alt="Calendly" /><br>
-<img src="../assets/icons/svg/brevo-icon.svg" height="48" alt="Brevo" /> <img src="../assets/icons/svg/resend-icon.svg" height="48" alt="Resend" />
+<img src="../assets/icons/svg/brevo-icon.svg" height="48" alt="Brevo" /> <img src="../assets/icons/svg/resend-icon.svg" height="48" alt="Resend" /> <img src="../assets/icons/svg/emailjs-icon.svg" height="48" alt="EmailJS" />
 
 
 #### ☆ Gestionnaires de paquets
