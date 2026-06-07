@@ -5,6 +5,11 @@
   <img src="https://img.shields.io/badge/Hackathon-3498DB?style=for-the-badge&logoColor=white" alt="Hackathon" />
   <a href="./stage-freelance-devwebmobile.md"><img src="https://img.shields.io/badge/Stage-148f77?style=flat-square&logoColor=white" alt="Stage" /></a>
   <a href="./coordonnees.md"><img src="https://img.shields.io/badge/Contact-239b56?style=flat-square&logoColor=white" alt="Contact" /></a>
+  &nbsp;|&nbsp;
+  <a href="./dev-web-mobile.md"><img src="https://img.shields.io/badge/Dev%20Web%20%26%20Mobile-3498DB?style=flat-square&logoColor=white" alt="Dev Web & Mobile" /></a>
+  <a href="./graphisme.md"><img src="https://img.shields.io/badge/Graphisme-9B59B6?style=flat-square&logoColor=white" alt="Graphisme" /></a>
+  <a href="./scrapbooking.md"><img src="https://img.shields.io/badge/Scrapbooking-E67E22?style=flat-square&logoColor=white" alt="Scrapbooking" /></a>
+  <a href="./impression-3d.md"><img src="https://img.shields.io/badge/Impression%203D-00BCD4?style=flat-square&logoColor=white" alt="Impression 3D" /></a>
 </p>
 
 ---
