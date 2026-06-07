@@ -84,6 +84,10 @@
 
 _Initiation à Docker_
 
+#### ☆ Impression 3D
+
+<img src="../assets/icons/svg/bambu-lab.svg" height="48" alt="Bambu Lab" />
+
 #
 
 #### ☆ Outils Graphiques

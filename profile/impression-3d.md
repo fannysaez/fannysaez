@@ -16,6 +16,10 @@
 
 ### 🖨️ Impression 3D
 
+<p align="center">
+  <img src="../assets/icons/svg/bambu-lab.svg" height="48" alt="Bambu Lab" />
+</p>
+
 | Compétence | Matériaux & Outils | Résumé |
 | --- | --- | --- |
-| **Impression 3D** | ![Bambu Lab](https://img.shields.io/badge/Bambu%20Lab-P2S%20Combo-00A3FF) ![PLA](https://img.shields.io/badge/PLA-Filament-ff9f1c) ![PLA+](https://img.shields.io/badge/PLA%2B-Filament-f97316) ![PLA+ 2.0](https://img.shields.io/badge/PLA%2B%202.0-Filament-f59e0b) ![PETG](https://img.shields.io/badge/PETG-Test%20prochain-22c55e) ![Tinkercad](https://img.shields.io/badge/Tinkercad-Modélisation-blue) | Objets personnalisés (porte-clés, déco, supports QR-code). Apprentissage autodidacte via Tinkercad, Bambu Studio Academy et MakerWorld. |
+| **Bambu Lab P2S Combo** | ![PLA](https://img.shields.io/badge/PLA-Filament-ff9f1c) ![PLA+](https://img.shields.io/badge/PLA%2B-Filament-f97316) ![PLA+ 2.0](https://img.shields.io/badge/PLA%2B%202.0-Filament-f59e0b) ![PETG](https://img.shields.io/badge/PETG-Test%20prochain-22c55e) ![Tinkercad](https://img.shields.io/badge/Tinkercad-Modélisation-blue) | Objets personnalisés (porte-clés, déco, supports QR-code). Apprentissage autodidacte via Tinkercad, Bambu Studio Academy et MakerWorld. |
