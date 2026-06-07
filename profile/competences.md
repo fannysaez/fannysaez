@@ -95,8 +95,7 @@ _Initiation à Docker_
 
 #### ☆ Impression 3D
 
-<img src="../assets/icons/svg/bambuLab-icon.svg" height="48" alt="Bambu Lab" /> <img src="../assets/icons/svg/tinkercad-icon.svg" height="48" alt="Tinkercad" /><br>
-![Bambu Studio](https://img.shields.io/badge/Bambu%20Studio-1BA94C?style=flat-square&logoColor=white)
+<img src="../assets/icons/svg/bambuLab-icon.svg" height="48" alt="Bambu Lab" /> <img src="../assets/icons/svg/tinkercad-icon.svg" height="48" alt="Tinkercad" />
 
 #
 
