@@ -39,7 +39,7 @@
 
 #### ☆ Auth & Sécurité
 
-![Auth](https://go-skill-icons.vercel.app/api/icons?i=nodejs,shield&perline=4) <img src="../assets/icons/svg/jwt-icon.svg" height="40" alt="JWT" />
+![NodeJS](https://go-skill-icons.vercel.app/api/icons?i=nodejs&perline=1) <img src="../assets/icons/svg/jwt-icon.svg" height="40" alt="JWT" /> ![Shield](https://go-skill-icons.vercel.app/api/icons?i=shield&perline=1)
 
 #### ☆ Librairies & Intégrations
 
