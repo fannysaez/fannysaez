@@ -39,15 +39,13 @@
 
 #### ☆ Auth & Sécurité
 
-![Auth](https://go-skill-icons.vercel.app/api/icons?i=nodejs,shield&perline=4) ![BcryptJs](https://img.shields.io/badge/BcryptJs-bcryptjs-6CC24A) <img src="../assets/icons/svg/jwt-icon.svg" height="40" alt="JWT" />
+![Auth](https://go-skill-icons.vercel.app/api/icons?i=nodejs,shield&perline=4) <img src="../assets/icons/svg/jwt-icon.svg" height="40" alt="JWT" />
 
 #### ☆ Librairies & Intégrations
 
 ![Libs](https://go-skill-icons.vercel.app/api/icons?i=react,stripe&perline=2)<br>
 <img src="../assets/icons/svg/cloudinary-icon.svg" height="40" alt="Cloudinary" /> <img src="../assets/icons/svg/calendly-icon.svg" height="40" alt="Calendly" /><br>
-<img src="../assets/icons/svg/brevo-icon.svg" height="40" alt="Brevo" /><br>
-<img src="../assets/icons/svg/resend-icon.svg" height="40" alt="Resend" /><br>
-<img src="../assets/icons/svg/emailjs-icon.svg" height="40" alt="Email.js" />
+<img src="../assets/icons/svg/brevo-icon.svg" height="40" alt="Brevo" /> <img src="../assets/icons/svg/resend-icon.svg" height="40" alt="Resend" /> <img src="../assets/icons/svg/emailjs-icon.svg" height="40" alt="Email.js" />
 
 
 #### ☆ Gestionnaires de paquets
