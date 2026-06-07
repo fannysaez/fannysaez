@@ -82,20 +82,32 @@ Mon activité principale reste et restera le développement web & mobile, tout e
 
 ---
 
+<table>
+<tr>
+<td valign="top" width="50%">
+
 ## 📖 Table des matières
 
-- **[🏠 Accueil](README.md)** - Présentation générale
-- **[💼 Projets & Réalisations](profile/projets-et-realisations.md)** - Portfolio complet
-- **[🛠️ Compétences](profile/competences.md)** - Stack détaillée
-- **[🎯 Hackathon](profile/hackathon.md)** - Événements & Expérience
-- **[🎓 Stage Freelance DevWebMobile](profile/stage-freelance-devwebmobile.md)** - Expérience professionnelle
-- **[📍 Coordonnées](profile/coordonnees.md)** - Informations de contact
+- **[🏠 Accueil](README.md)** — Présentation générale
+- **[💼 Projets & Réalisations](profile/projets-et-realisations.md)** — Portfolio complet
+- **[🛠️ Compétences](profile/competences.md)** — Stack détaillée
+- **[🎯 Hackathon](profile/hackathon.md)** — Événements & Expérience
+- **[🎓 Stage Freelance DevWebMobile](profile/stage-freelance-devwebmobile.md)** — Expérience professionnelle
+- **[📍 Coordonnées](profile/coordonnees.md)** — Informations de contact
 
-**🔥 Ce que je fais :**
-- **[💻 Développement Web & Mobile](profile/dev-web-mobile.md)** - Stack technique complète
-- **[🎨 Graphisme](profile/graphisme.md)** - Design & identité visuelle
-- **[✂️ Scrapbooking](profile/scrapbooking.md)** - Papeterie & créations faits main
-- **[🖨️ Impression 3D](profile/impression-3d.md)** - Objets personnalisés
+</td>
+<td valign="top" width="50%">
+
+## 🔥 Ce que je fais
+
+- **[💻 Développement Web & Mobile](profile/dev-web-mobile.md)** — Stack technique complète
+- **[🎨 Graphisme](profile/graphisme.md)** — Design & identité visuelle
+- **[✂️ Scrapbooking](profile/scrapbooking.md)** — Papeterie & créations faits main
+- **[🖨️ Impression 3D](profile/impression-3d.md)** — Objets personnalisés
+
+</td>
+</tr>
+</table>
 
 ---
 
