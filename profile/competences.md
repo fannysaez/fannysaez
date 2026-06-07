@@ -39,11 +39,11 @@
 
 #### ☆ Auth & Sécurité
 
-![Auth](https://go-skill-icons.vercel.app/api/icons?i=nodejs,shield&perline=4) ![BcryptJs](https://img.shields.io/badge/BcryptJs-bcryptjs-6CC24A) ![JWT](https://img.shields.io/badge/JWT-Auth-F7DF1E?logo=jsonwebtokens&logoColor=black)
+![Auth](https://go-skill-icons.vercel.app/api/icons?i=nodejs,shield&perline=4) ![BcryptJs](https://img.shields.io/badge/BcryptJs-bcryptjs-6CC24A) <img src="../assets/icons/svg/jwtio-json-web-token.svg" height="30" alt="JWT" />
 
 #### ☆ Librairies & Intégrations
 
-![Libs](https://go-skill-icons.vercel.app/api/icons?i=react,stripe&perline=4) ![Cloudinary](https://img.shields.io/badge/Cloudinary-Images-3448C5?logo=cloudinary&logoColor=white) ![Brevo](https://img.shields.io/badge/Brevo-Email-0B996E?logo=brevo&logoColor=white) ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-Forms-61DAFB) ![Email.js](https://img.shields.io/badge/Email.js-Email-FF6A00) ![Resend](https://img.shields.io/badge/Resend-Email-22CBFF) ![Pinia](https://img.shields.io/badge/Pinia-State%20Management-FFD859) ![Vue Router](https://img.shields.io/badge/Vue%20Router-Routing-42b883) ![jsPDF](https://img.shields.io/badge/jsPDF-PDF%20génération-E74C3C) ![Web Push VAPID](https://img.shields.io/badge/Web%20Push%20VAPID-Notifications-FF6B35)
+![Libs](https://go-skill-icons.vercel.app/api/icons?i=react,stripe&perline=4) <img src="../assets/icons/svg/cloudinary.svg" height="40" alt="Cloudinary" /> <img src="../assets/icons/svg/brevo.svg" height="40" alt="Brevo" /> <img src="../assets/icons/svg/resend.svg" height="40" alt="Resend" /> <img src="../assets/icons/svg/emailjs.jpeg" height="40" alt="Email.js" /> ![React Hook Form](https://img.shields.io/badge/React%20Hook%20Form-Forms-61DAFB) ![Pinia](https://img.shields.io/badge/Pinia-State%20Management-FFD859) ![Vue Router](https://img.shields.io/badge/Vue%20Router-Routing-42b883) ![jsPDF](https://img.shields.io/badge/jsPDF-PDF%20génération-E74C3C) ![Web Push VAPID](https://img.shields.io/badge/Web%20Push%20VAPID-Notifications-FF6B35)
 
 
 #### ☆ Gestionnaires de paquets
