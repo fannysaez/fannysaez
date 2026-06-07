@@ -6,10 +6,10 @@
   <a href="./stage-freelance-devwebmobile.md"><img src="https://img.shields.io/badge/Stage-148f77?style=flat-square&logoColor=white" alt="Stage" /></a>
   <a href="./coordonnees.md"><img src="https://img.shields.io/badge/Contact-239b56?style=flat-square&logoColor=white" alt="Contact" /></a>
   &nbsp;|&nbsp;
-  <a href="./dev-web-mobile.md"><img src="https://img.shields.io/badge/Dev%20Web%20%26%20Mobile-2471a3?style=flat-square&logoColor=white" alt="Dev Web & Mobile" /></a>
-  <a href="./graphisme.md"><img src="https://img.shields.io/badge/Graphisme-76448a?style=flat-square&logoColor=white" alt="Graphisme" /></a>
-  <a href="./scrapbooking.md"><img src="https://img.shields.io/badge/Scrapbooking-cc5520?style=flat-square&logoColor=white" alt="Scrapbooking" /></a>
-  <img src="https://img.shields.io/badge/Impression%203D-00BCD4?style=for-the-badge&logoColor=white" alt="Impression 3D" />
+  <a href="./dev-web-mobile.md"><img src="https://img.shields.io/badge/Dev%20Web%20%26%20Mobile-1A237E?style=flat-square&logoColor=white" alt="Dev Web & Mobile" /></a>
+  <a href="./graphisme.md"><img src="https://img.shields.io/badge/Graphisme-880E4F?style=flat-square&logoColor=white" alt="Graphisme" /></a>
+  <a href="./scrapbooking.md"><img src="https://img.shields.io/badge/Scrapbooking-E65100?style=flat-square&logoColor=white" alt="Scrapbooking" /></a>
+  <img src="https://img.shields.io/badge/Impression%203D-0097A7?style=for-the-badge&logoColor=white" alt="Impression 3D" />
 </p>
 
 ---
