@@ -21,3 +21,17 @@
 | **Développement Web** | ![HTML](https://img.shields.io/badge/HTML-5-orange) ![CSS](https://img.shields.io/badge/CSS-3-blue) ![JavaScript](https://img.shields.io/badge/JavaScript-ES6-yellow) ![PHP](https://img.shields.io/badge/PHP-8.3-blueviolet) ![MySQL](https://img.shields.io/badge/MySQL-Database-lightblue) ![Symfony 7](https://img.shields.io/badge/Symfony-7-black) ![Bootstrap](https://img.shields.io/badge/Bootstrap-5-purple) ![WordPress](https://img.shields.io/badge/WordPress-CMS-21759B) ![Next.js](https://img.shields.io/badge/Next.js-Framework-black) ![Vue.js](https://img.shields.io/badge/Vue.js-Frontend-42b883) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-316192) ![Prisma](https://img.shields.io/badge/Prisma-ORM-2BA3F8) ![Vercel](https://img.shields.io/badge/Vercel-Deploy-000000) ![JWT](https://img.shields.io/badge/JWT-Auth-F7DF1E) ![Cloudinary](https://img.shields.io/badge/Cloudinary-Images-2F2F93) | Sites et applications web full stack, intégration front/back, gestion de bases de données, frameworks et CMS. |
 | **Intégration & maintenance** | ![Git](https://img.shields.io/badge/Git-Version%20control-orange) ![GitHub](https://img.shields.io/badge/GitHub-Repo-black) ![VS Code](https://img.shields.io/badge/VS%20Code-Editor-007ACC) ![Bash](https://img.shields.io/badge/Bash-Terminal-4EAA25) ![PowerShell](https://img.shields.io/badge/PowerShell-Terminal-012456) | Versioning, automatisation des tâches, maintenance et déploiement. |
 | **Gestion & modélisation** | ![Notion](https://img.shields.io/badge/Notion-Docs-black) ![Trello](https://img.shields.io/badge/Trello-Board-0079BF) ![Kanban](https://img.shields.io/badge/Kanban-Workflow-yellowgreen) ![StarUML](https://img.shields.io/badge/StarUML-Modélisation-blue) | Organisation de projets, gestion collaborative et modélisation des processus. |
+
+---
+
+### 🚀 Projet phare — BambuCalc
+
+**[BambuCalc](https://github.com/fannysaez/BambuCalc)** — Plateforme web B2B destinée aux prestataires d'impression 3D Bambu Lab : calcul automatisé des coûts, génération de devis PDF, gestion clients, paiements Stripe, notifications Web Push, score Lighthouse 100/100.
+
+| Stack | Outils | Rôle |
+| --- | --- | --- |
+| **Frontend** | ![Vue.js](https://img.shields.io/badge/Vue.js-3-42b883) ![Vite](https://img.shields.io/badge/Vite-Build-646CFF) ![Pinia](https://img.shields.io/badge/Pinia-State-FFD859) ![Vue Router](https://img.shields.io/badge/Vue%20Router-Routing-42b883) | Framework, build, gestion d'état et routing |
+| **Backend & BDD** | ![Supabase](https://img.shields.io/badge/Supabase-BaaS-3ECF8E) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-Database-316192) | BaaS PostgreSQL + 10 Edge Functions Deno, Row Level Security |
+| **Intégrations** | ![Stripe](https://img.shields.io/badge/Stripe-Paiements-635BFF) ![Brevo](https://img.shields.io/badge/Brevo-Email-0B996E?logo=brevo&logoColor=white) ![Resend](https://img.shields.io/badge/Resend-Email-22CBFF) ![jsPDF](https://img.shields.io/badge/jsPDF-PDF-E74C3C) | Paiements, emails transactionnels, génération PDF |
+| **Déploiement** | ![Netlify](https://img.shields.io/badge/Netlify-CDN-00C7B7) | CDN Netlify — score Lighthouse 100/100 desktop |
+| **Qualité** | ![Vitest](https://img.shields.io/badge/Vitest-Tests-6E9F18) ![Playwright](https://img.shields.io/badge/Playwright-E2E-2EAD33) ![ESLint](https://img.shields.io/badge/ESLint-Linting-4B32C3) ![Prettier](https://img.shields.io/badge/Prettier-Format-F7B93E) | Tests unitaires, E2E, linting et formatage |
