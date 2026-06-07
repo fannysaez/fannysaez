@@ -19,7 +19,7 @@
 #### ☆ Environnement
 
 ![Tools](https://go-skill-icons.vercel.app/api/icons?i=vscode,windows,zen,chrome)<br>
-![WampServer64](https://img.shields.io/badge/WampServer64-6A0DAD?style=flat-square&logoColor=white) ![Local by Flywheel](https://img.shields.io/badge/Local%20by%20Flywheel-51BB7B?style=flat-square&logoColor=white)
+<img src="../assets/icons/svg/wampserver-icon.svg" height="48" alt="WampServer" /> <img src="../assets/icons/svg/localwp-icon.svg" height="48" alt="LocalWP" />
 
 #
 
@@ -61,7 +61,7 @@
 #### ☆ Outils de développement
 
 ![Outils](https://go-skill-icons.vercel.app/api/icons?i=codepen,postman,eslint,prettier&perline=4)<br>
-![FileZilla](https://img.shields.io/badge/FileZilla-BF0000?style=flat-square&logo=filezilla&logoColor=white)
+<img src="../assets/icons/svg/fileZilla-icon.svg" height="48" alt="FileZilla" />
 
 #### ☆ Tests
 
