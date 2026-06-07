@@ -24,7 +24,7 @@
 
 #### ☆ Languages
 
-![HTML](https://go-skill-icons.vercel.app/api/icons?i=html&perline=1) <img src="../assets/icons/svg/CSS.svg" height="48" alt="CSS3" /> ![JS TS](https://go-skill-icons.vercel.app/api/icons?i=js,ts&perline=2) ![PHP](https://go-skill-icons.vercel.app/api/icons?i=php&perline=1)
+![HTML](https://go-skill-icons.vercel.app/api/icons?i=html&perline=1) <img src="../assets/icons/svg/CSS.svg" height="48" alt="CSS3" /> ![JS TS](https://go-skill-icons.vercel.app/api/icons?i=js,ts&perline=2) ![PHP Sass](https://go-skill-icons.vercel.app/api/icons?i=php,sass&perline=2)
 
 #### ☆ Frameworks & Build tools
 
