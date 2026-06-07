@@ -43,7 +43,10 @@
 
 #### ☆ Librairies & Intégrations
 
-![Libs](https://go-skill-icons.vercel.app/api/icons?i=react,stripe&perline=4) <img src="../assets/icons/svg/cloudinary.svg" height="48" alt="Cloudinary" /> <img src="../assets/icons/svg/brevo.svg" height="48" alt="Brevo" /> <img src="../assets/icons/svg/resend.svg" height="48" alt="Resend" /> <img src="../assets/png/emailjs.png" height="48" alt="Email.js" />
+![Libs](https://go-skill-icons.vercel.app/api/icons?i=react,stripe&perline=2)<br>
+<img src="../assets/icons/svg/cloudinary.svg" height="48" alt="Cloudinary" /> <img src="../assets/icons/svg/brevo.svg" height="48" alt="Brevo" /> <img src="../assets/icons/svg/calendly.svg" height="48" alt="Calendly" /><br>
+<img src="../assets/icons/svg/resend.svg" height="48" alt="Resend" /><br>
+<img src="../assets/png/emailjs.png" height="48" alt="Email.js" />
 
 
 #### ☆ Gestionnaires de paquets
