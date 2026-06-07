@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="https://img.shields.io/badge/Accueil-FF6B35?style=for-the-badge&logoColor=white" alt="Accueil" />
+  <a href="../README.md"><img src="https://img.shields.io/badge/Accueil-cc5520?style=flat-square&logoColor=white" alt="Accueil" /></a>
   <a href="./projets-et-realisations.md"><img src="https://img.shields.io/badge/Projets-b03a2e?style=flat-square&logoColor=white" alt="Projets" /></a>
   <a href="./competences.md"><img src="https://img.shields.io/badge/Competences-76448a?style=flat-square&logoColor=white" alt="Compétences" /></a>
   <a href="./hackathon.md"><img src="https://img.shields.io/badge/Hackathon-2471a3?style=flat-square&logoColor=white" alt="Hackathon" /></a>
