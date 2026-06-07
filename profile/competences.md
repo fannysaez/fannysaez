@@ -46,7 +46,7 @@
 ![Libs](https://go-skill-icons.vercel.app/api/icons?i=react,stripe&perline=2)<br>
 <img src="../assets/icons/svg/cloudinary-icon.svg" height="40" alt="Cloudinary" /> <img src="../assets/icons/svg/calendly-icon.svg" height="40" alt="Calendly" /><br>
 <img src="../assets/icons/svg/brevo-icon.svg" height="40" alt="Brevo" /><br>
-<img src="../assets/icons/svg/resend.svg" height="40" alt="Resend" /><br>
+<img src="../assets/icons/svg/resend-icon.svg" height="40" alt="Resend" /><br>
 <img src="../assets/icons/svg/emailjs-icon.svg" height="40" alt="Email.js" />
 
 
@@ -90,7 +90,7 @@ _Initiation à Docker_
 
 #### ☆ Impression 3D
 
-<img src="../assets/icons/svg/bambu-lab.svg" height="48" alt="Bambu Lab" />
+<img src="../assets/icons/svg/bambuLab-icon.svg" height="48" alt="Bambu Lab" />
 
 #
 

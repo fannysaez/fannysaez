@@ -17,7 +17,7 @@
 ### 🖨️ Impression 3D
 
 <p align="center">
-  <img src="../assets/icons/svg/bambu-lab.svg" height="48" alt="Bambu Lab" />
+  <img src="../assets/icons/svg/bambuLab-icon.svg" height="48" alt="Bambu Lab" />
 </p>
 
 | Compétence | Matériaux & Outils | Résumé |
