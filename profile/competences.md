@@ -31,7 +31,7 @@
 
 #### ☆ Bases de données
 
-![Bases de données](https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,neon&perline=4)
+![Bases de données](https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,neon,supabase&perline=4)
 
 #### ☆ ORM
 
