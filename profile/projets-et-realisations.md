@@ -1,3 +1,14 @@
+<p align="center">
+  <a href="../README.md"><img src="https://img.shields.io/badge/Accueil-cc5520?style=flat-square&logoColor=white" alt="Accueil" /></a>
+  <img src="https://img.shields.io/badge/Projets-E74C3C?style=for-the-badge&logoColor=white" alt="Projets" />
+  <a href="./competences.md"><img src="https://img.shields.io/badge/Competences-76448a?style=flat-square&logoColor=white" alt="Compétences" /></a>
+  <a href="./hackathon.md"><img src="https://img.shields.io/badge/Hackathon-2471a3?style=flat-square&logoColor=white" alt="Hackathon" /></a>
+  <a href="./stage-freelance-devwebmobile.md"><img src="https://img.shields.io/badge/Stage-148f77?style=flat-square&logoColor=white" alt="Stage" /></a>
+  <a href="./coordonnees.md"><img src="https://img.shields.io/badge/Contact-239b56?style=flat-square&logoColor=white" alt="Contact" /></a>
+</p>
+
+---
+
 <div align="center">
   <h3><strong>Projets & Réalisations </strong></h3>
 </div>
