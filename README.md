@@ -37,7 +37,7 @@
 <div align="center" style="font-family: 'Segoe UI', Arial, sans-serif; font-size: 2rem; line-height: 1.6;">
 
 <blockquote>
-Titulaire du <strong>Titre Professionnel de Développeuse Web & Web Mobile</strong> (20 octobre 2026, Simplon – Clermont-Ferrand).<br><br>
+Titulaire du <strong>Titre Professionnel de Développeuse Web & Web Mobile</strong> (20 octobre 2025, Simplon – Clermont-Ferrand).<br><br>
 
 Je suis <strong>Développeuse Web & Mobile Full Stack</strong>, passionnée par le <strong>design</strong>, le <strong>code</strong> et le <strong>DIY</strong>. Curieuse, créative et organisée, j'aime apprendre et relever de nouveaux défis.<br><br>
 
