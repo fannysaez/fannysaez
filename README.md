@@ -31,6 +31,9 @@
   <a href="https://www.bge-aura.fr/" target="_blank">
     <img src="https://img.shields.io/badge/BGE%20AURA-Accompagnement-0077B5?style=for-the-badge&logoColor=white" alt="BGE AURA" />
   </a>
+  <a href="https://clermont-ferrand.simplon.co/" target="_blank">
+    <img src="https://img.shields.io/badge/Simplon-Clermont--Ferrand-E63329?style=for-the-badge&logoColor=white" alt="Simplon Clermont-Ferrand" />
+  </a>
 
 </div>
 <br>
@@ -45,7 +48,10 @@ Je développe aujourd'hui un projet professionnel orienté vers la <strong>créa
 </blockquote><br>
 
 <blockquote>
-Actuellement engagée dans l'accompagnement <strong>Activ'Créa</strong>, je prépare la création d'une <strong>micro‑entreprise</strong> multi‑activités (lancement prévu en 2027). Je poursuis mon apprentissage autodidacte, notamment sur des technologies intégrant l'IA, et je travaille la structuration de mon projet avec <strong>BGE AURA</strong>.
+En formation <strong>Conceptrice en Développement d'Applications</strong> (CDA) à Simplon – Clermont‑Ferrand, du <strong>29/06/2026</strong> au <strong>18/06/2027</strong>, avec un stage de 4 mois du <strong>18/01</strong> au <strong>19/05/2027</strong>.<br>
+🔍 À la recherche d'un stage sur <strong>Clermont-Ferrand</strong>, en <strong>distanciel (freelance)</strong> ou <strong>sur site</strong>.
+<br><br>
+Actuellement engagée dans l'accompagnement <strong>Activ'Créa</strong>, je prépare la création d'une <strong>micro‑entreprise</strong> multi‑activités (lancement prévu en 2028). Je poursuis mon apprentissage autodidacte, notamment sur des technologies intégrant l'IA, et je travaille la structuration de mon projet avec <strong>BGE AURA</strong>.
 <br><br>
 Mon activité principale reste et restera le développement web & mobile, tout en développant des projets alliant technique, créativité et innovation.
 </blockquote>
