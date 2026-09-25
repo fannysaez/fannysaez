@@ -29,7 +29,7 @@
 
 #### ☆ Frameworks & Build tools
 
-![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=symfony,bootstrap,nextjs,nodejs,vue,vite&perline=6)
+![Frameworks](https://go-skill-icons.vercel.app/api/icons?i=symfony,bootstrap,nextjs,nodejs,vue,react,angular,vite&perline=8)
 
 #### ☆ CMS
 
@@ -37,15 +37,15 @@
 
 #### ☆ Bases de données
 
-![Bases de données](https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,neon,supabase&perline=4)
+![Bases de données](https://go-skill-icons.vercel.app/api/icons?i=mysql,postgres,neon,supabase,mongodb&perline=8)
 
-#### ☆ ORM
+#### ☆ ORM & ODM
 
-![ORM](https://go-skill-icons.vercel.app/api/icons?i=prisma&perline=1)
+![ORM](https://go-skill-icons.vercel.app/api/icons?i=prisma,mongoose&perline=2)
 
 #### ☆ Auth & Sécurité
 
-![NodeJS](https://go-skill-icons.vercel.app/api/icons?i=nodejs&perline=1) <img src="../assets/icons/svg/jwt-icon.svg" height="48" alt="JWT" /> ![Shield](https://go-skill-icons.vercel.app/api/icons?i=shield&perline=1)
+![NodeJS](https://go-skill-icons.vercel.app/api/icons?i=nodejs,express&perline=2) <img src="../assets/icons/svg/jwt-icon.svg" height="48" alt="JWT" /> ![Shield](https://go-skill-icons.vercel.app/api/icons?i=shield&perline=1)
 
 #### ☆ Librairies & Intégrations
 
@@ -77,11 +77,11 @@
 
 #### ☆ Terminal / Ligne de commande
 
-![Terminal](https://go-skill-icons.vercel.app/api/icons?i=powershell,bash&perline=3)
+![Terminal](https://go-skill-icons.vercel.app/api/icons?i=powershell,bash,linux,wsl,ubuntu&perline=5)
 
 #### ☆ Déploiement
 
-![Déploiement](https://go-skill-icons.vercel.app/api/icons?i=vercel,netlify,github&perline=3)
+![Déploiement](https://go-skill-icons.vercel.app/api/icons?i=vercel,netlify,github,docker&perline=4)
 
 #### ☆ Services Cloud
 
